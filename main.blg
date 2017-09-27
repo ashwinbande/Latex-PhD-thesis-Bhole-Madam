@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: IEEEtran-mod.bst
+Database file #1: References.bib
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** IEEEtran BST control entry "IEEEexample:BSTcontrol" detected.
+Warning--empty author and editor in DefinitionforPower
+Warning--empty year in DefinitionforPower
+Warning--empty booktitle in van2001transients
+Warning--empty booktitle in garzon2002high
+Warning--empty journal in browne1984circuit
+Warning--empty author and editor in EPRIReportEL4651
+Warning--empty year in AlternatingCurrentCircuit
+Warning--empty booktitle in Impulseandswitchingsurge
+
+Done.
+(There were 8 warnings)

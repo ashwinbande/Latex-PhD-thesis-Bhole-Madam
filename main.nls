@@ -1,0 +1,33 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{ANSI}]\begingroup American National Standards Association\nomeqref {0}
+		\nompageref{1}
+  \item [{CB}]\begingroup Circuit Breaker\nomeqref {0}\nompageref{1}
+  \item [{CBY}]\begingroup Circuit Breaker Years\nomeqref {0}
+		\nompageref{1}
+  \item [{DCRM}]\begingroup Dynamic Contact Resistance Measurement\nomeqref {0}
+		\nompageref{1}
+  \item [{HVCB}]\begingroup High Voltage Circuit Breaker\nomeqref {0}
+		\nompageref{1}
+  \item [{IEC}]\begingroup International Electro Technical Commission\nomeqref {0}
+		\nompageref{1}
+  \item [{IEEE}]\begingroup Institute of Electrical and Electronics Engineers\nomeqref {0}
+		\nompageref{1}
+  \item [{MaF}]\begingroup Major Failure\nomeqref {0}\nompageref{1}
+  \item [{Mif}]\begingroup Minor Failures\nomeqref {0}\nompageref{1}
+  \item [{MSETCL}]\begingroup Maharashtra State Electricity Transmission Company Ltd.\nomeqref {0}
+		\nompageref{1}
+  \item [{PGCIL}]\begingroup Power Grid Corporation of India Ltd.\nomeqref {0}
+		\nompageref{1}
+  \item [{RRRV}]\begingroup Rate of Rise of Transient Recovery Voltage\nomeqref {0}
+		\nompageref{1}
+  \item [{SCRM}]\begingroup Static Contact Resistance Measurement\nomeqref {0}
+		\nompageref{1}
+  \item [{SF\textsubscript{6}}]\begingroup Sulpher Hexafluoride\nomeqref {0}
+		\nompageref{1}
+  \item [{TRV}]\begingroup Transient Recovery Voltage\nomeqref {0}
+		\nompageref{1}
+
+\end{thenomenclature}

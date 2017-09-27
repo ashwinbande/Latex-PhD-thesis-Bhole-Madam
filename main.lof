@@ -1,0 +1,81 @@
+\select@language {english}
+\addcontentsline {toc}{chapter}{\hbox to\@tempdima {\hfil }List of Figures}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1.1}{\ignorespaces Application of CBs}}{3}{figure.caption.6}
+\contentsline {figure}{\numberline {1.1.2}{\ignorespaces Maf-Rate per Drive Technology for Failures}}{4}{figure.caption.7}
+\contentsline {figure}{\numberline {1.1.3}{\ignorespaces Classification of CBs\relax }}{6}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4.1}{\ignorespaces Theme of the Research Work\relax }}{10}{figure.caption.11}
+\contentsline {figure}{\numberline {1.4.2}{\ignorespaces Normal DCRM Signature\relax }}{10}{figure.caption.12}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Potential Distribution Along an Arc Channel}}{13}{figure.caption.18}
+\contentsline {figure}{\numberline {2.1.2}{\ignorespaces Intervals and Failure Modes in the Interruption Process}}{14}{figure.caption.19}
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Representation of the Network Connected to the Breaker Terminals}}{15}{figure.caption.20}
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces Curves of Short Circuit Current and Recovery Voltage}}{16}{figure.caption.21}
+\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Current Shapes at Interruption}}{17}{figure.caption.22}
+\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Dielectric Interruption Regime\relax }}{17}{figure.caption.23}
+\contentsline {figure}{\numberline {2.5.1}{\ignorespaces Prestrike Phenomenon during Closing\relax }}{26}{figure.caption.28}
+\contentsline {figure}{\numberline {2.6.1}{\ignorespaces Voltage Range of Application of Breaking Technologies\relax }}{28}{figure.caption.29}
+\contentsline {figure}{\numberline {2.6.2}{\ignorespaces Main Components of the Puffer Interrupter\relax }}{29}{figure.caption.30}
+\contentsline {figure}{\numberline {2.6.3}{\ignorespaces Function of a Puffer Interrupter\relax }}{30}{figure.caption.31}
+\contentsline {figure}{\numberline {2.6.4}{\ignorespaces Pressure in the Puffer Cylinder at No-Load and during Interruption of an Asymmetrical Short-Circuit Current of 40 kA\relax }}{31}{figure.caption.32}
+\contentsline {figure}{\numberline {2.7.1}{\ignorespaces Illustration of the Sources of TRV}}{33}{figure.caption.33}
+\contentsline {figure}{\numberline {2.7.2}{\ignorespaces IEC Two and Four Parameter Limiting TRV Curves}}{34}{figure.caption.34}
+\contentsline {figure}{\numberline {2.7.3}{\ignorespaces Shunt Reactor Equivalent Circuit\relax }}{35}{figure.caption.35}
+\contentsline {figure}{\numberline {2.7.4}{\ignorespaces Oscillation Modes in Reactor Circuit}}{37}{figure.caption.36}
+\contentsline {figure}{\numberline {2.8.1}{\ignorespaces Time Definitions during Opening and Closing, As Per IEC\relax }}{39}{figure.caption.37}
+\contentsline {figure}{\numberline {2.8.2}{\ignorespaces Time Definitions during Close-Open Cycle for CB without Switching Resistors\relax }}{40}{figure.caption.38}
+\contentsline {figure}{\numberline {2.8.3}{\ignorespaces Flow Chart of DCRM\relax }}{42}{figure.caption.39}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1.1}{\ignorespaces IEEE Network under Study}}{47}{figure.caption.40}
+\contentsline {figure}{\numberline {3.2.1}{\ignorespaces Circuit for Interruption of a Three-Phase-to-Ground Fault\relax }}{51}{figure.caption.42}
+\contentsline {figure}{\numberline {3.2.2}{\ignorespaces Lattice Diagram to Evaluate the Characteristics of Travelling Wave\relax }}{55}{figure.caption.43}
+\contentsline {figure}{\numberline {3.2.3}{\ignorespaces TRV across the Breaker during Short Line Fault\relax }}{56}{figure.caption.44}
+\contentsline {figure}{\numberline {3.3.1}{\ignorespaces Schematic of Forces Exerted on the Fixed Contact by the Moving Finger Contacts\relax }}{58}{figure.caption.45}
+\contentsline {figure}{\numberline {3.3.2}{\ignorespaces Schematic Diagram of Static Contact Resistance Measurement\relax }}{60}{figure.caption.46}
+\contentsline {figure}{\numberline {3.3.3}{\ignorespaces Schematic Diagram of DCRM\relax }}{60}{figure.caption.47}
+\contentsline {figure}{\numberline {3.3.4}{\ignorespaces Test Set Up for DCR Measurement\relax }}{62}{figure.caption.48}
+\contentsline {figure}{\numberline {3.3.5}{\ignorespaces Measurement Details from DCRM Signature\relax }}{63}{figure.caption.49}
+\contentsline {figure}{\numberline {3.3.6}{\ignorespaces Enlarged View of Tripping Portion of DCRM Signature\relax }}{64}{figure.caption.50}
+\contentsline {figure}{\numberline {3.3.7}{\ignorespaces Contact Bouncing after Closing Cycle on 400 kV SF\textsubscript {6} Circuit Breaker\relax }}{65}{figure.caption.52}
+\contentsline {figure}{\numberline {3.3.8}{\ignorespaces DCRM Signature Showing Fluctuations in Resistance Curve of B Phase Front Side Interrupter\relax }}{66}{figure.caption.53}
+\contentsline {figure}{\numberline {3.3.9}{\ignorespaces Enlarged View of R-Pole DCRM in Closing Part\relax }}{67}{figure.caption.55}
+\contentsline {figure}{\numberline {3.3.10}{\ignorespaces R-Pole DCRM in Tripping Zone\relax }}{68}{figure.caption.56}
+\contentsline {figure}{\numberline {3.3.11}{\ignorespaces Y-Pole DCRM in Tripping Zone\relax }}{68}{figure.caption.57}
+\contentsline {figure}{\numberline {3.3.12}{\ignorespaces Wrong Assembly of Arcing Contact\relax }}{69}{figure.caption.58}
+\contentsline {figure}{\numberline {3.3.13}{\ignorespaces Closing Graph of 245 kV SF\textsubscript {6} Circuit Breaker\relax }}{70}{figure.caption.60}
+\contentsline {figure}{\numberline {3.3.14}{\ignorespaces Complete DCRM Signature of 245 kV SF\textsubscript {6} Circuit Breaker\relax }}{70}{figure.caption.61}
+\contentsline {figure}{\numberline {3.3.15}{\ignorespaces DCRM of 245 kV SF\textsubscript {6} Circuit Breaker in Tripping Zone \relax }}{71}{figure.caption.62}
+\contentsline {figure}{\numberline {3.3.16}{\ignorespaces Contact Bouncing in Closing Graph of 245 kV SF\textsubscript {6} Circuit Breaker\relax }}{71}{figure.caption.63}
+\contentsline {figure}{\numberline {3.3.17}{\ignorespaces Abnormal Variations in Resistance in no Action Zone of DCRM Signature for 220 kV Circuit Breaker\relax }}{72}{figure.caption.65}
+\contentsline {figure}{\numberline {3.3.18}{\ignorespaces Loose Ring Connecting PTFE Nozzle of Main Contact\relax }}{73}{figure.caption.66}
+\contentsline {figure}{\numberline {3.3.19}{\ignorespaces Problematic DCRM Signature\relax }}{74}{figure.caption.68}
+\contentsline {figure}{\numberline {3.3.20}{\ignorespaces Increase in Resistance in Close Zone\relax }}{74}{figure.caption.69}
+\contentsline {figure}{\numberline {3.3.21}{\ignorespaces Fix and Moving Contact Assembly\relax }}{75}{figure.caption.70}
+\contentsline {figure}{\numberline {3.3.22}{\ignorespaces Deposition of Sulfide Powder on Contact Assembly\relax }}{76}{figure.caption.71}
+\contentsline {figure}{\numberline {3.4.1}{\ignorespaces DCRM Signature Showing the Parameters used in Algorithm\relax }}{77}{figure.caption.72}
+\contentsline {figure}{\numberline {3.4.2}{\ignorespaces Flow Chart of Proposed Algorithm\relax }}{83}{figure.caption.80}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1.1}{\ignorespaces TRV Waveform of the Three Phases for Multiple Line Switching at Terminal of Substation for Three Phase to Ground Fault\relax }}{88}{figure.caption.82}
+\contentsline {figure}{\numberline {4.1.2}{\ignorespaces TRV Waveform of Phase A with Standard TRV and Delay Line for Multiple Line Switching at Terminal of Substation for Three Phase to Ground Fault\relax }}{89}{figure.caption.83}
+\contentsline {figure}{\numberline {4.1.3}{\ignorespaces Standard TRV Envelope and Phase A TRV for Multiple Line Switching at Terminal of Substation for Three Phase to Ground Fault\relax }}{90}{figure.caption.84}
+\contentsline {figure}{\numberline {4.1.4}{\ignorespaces Oscillatory TRV for Three Phase to Ground Terminal Fault for Transformer Switching\relax }}{91}{figure.caption.85}
+\contentsline {figure}{\numberline {4.1.5}{\ignorespaces Three Phase Oscillatory TRV for Three Phase to Ground Terminal Fault for Transformer Switching\relax }}{92}{figure.caption.86}
+\contentsline {figure}{\numberline {4.1.6}{\ignorespaces Phase A TRV, Standard TRV and Delay Line for Oscillatory TRV for Three Phase to Ground Terminal Fault for Transformer Switching\relax }}{93}{figure.caption.87}
+\contentsline {figure}{\numberline {4.1.7}{\ignorespaces Enlarged View of Phase A TRV and Standard TRV Envelope for Three Phase to Ground Terminal Fault for Transformer Switching\relax }}{94}{figure.caption.88}
+\contentsline {figure}{\numberline {4.1.8}{\ignorespaces TRV for Short Line Single Phase to Ground Fault for Constant Parameter Model of Lines\relax }}{95}{figure.caption.89}
+\contentsline {figure}{\numberline {4.1.9}{\ignorespaces TRV for Short Line Single Phase to Ground Fault for Frequency Dependent Model of Lines\relax }}{96}{figure.caption.90}
+\contentsline {figure}{\numberline {4.1.10}{\ignorespaces Comparative Waveform of TRV for Constant Parameter Model and Frequency Dependent Model of Line for Short Line Single Phase to Ground \relax }}{97}{figure.caption.91}
+\contentsline {figure}{\numberline {4.1.11}{\ignorespaces TRV for Short Line Single Phase to Ground Fault at 1.2 km for Constant Parameter Model of Lines\relax }}{98}{figure.caption.92}
+\contentsline {figure}{\numberline {4.1.12}{\ignorespaces TRV for Short Line Single Phase to Ground Fault at 2.2 km for Constant Parameter Model of Lines\relax }}{99}{figure.caption.93}
+\contentsline {figure}{\numberline {4.1.13}{\ignorespaces TRV for Short Line Single Phase to Ground Fault at 3.2 km for Constant Parameter Model of Lines\relax }}{100}{figure.caption.94}
+\contentsline {figure}{\numberline {4.1.14}{\ignorespaces TRV for Short Line Single Phase to Ground Fault at 5.2 km for Constant Parameter Model of Lines\relax }}{101}{figure.caption.95}
+\contentsline {figure}{\numberline {4.1.15}{\ignorespaces TRV for Short Line Single Phase to Ground Fault at 6.2 km for Constant Parameter Model of Lines\relax }}{102}{figure.caption.96}
+\contentsline {figure}{\numberline {4.1.16}{\ignorespaces Arc Interruption Waveforms for Three Phase to Ground Terminal Fault for Transformer Switching\relax }}{103}{figure.caption.97}
+\contentsline {figure}{\numberline {4.1.17}{\ignorespaces Arc Interruption Waveforms for Three Phase to Ground Terminal Fault for Multiple Line Switching\relax }}{104}{figure.caption.98}
+\contentsline {figure}{\numberline {4.2.1}{\ignorespaces Variation of RRRV with Fault Distance for Single Phase to Ground Short Line Fault\relax }}{106}{figure.caption.99}
+\contentsline {figure}{\numberline {4.4.1}{\ignorespaces Fix and Moving Contacts with Different Worn Conditions}}{108}{figure.caption.103}
+\contentsline {figure}{\numberline {4.4.2}{\ignorespaces DCRM Signature in Trip Portion for Different Contact Configuration}}{109}{figure.caption.104}
+\contentsline {figure}{\numberline {4.4.3}{\ignorespaces Signatures of R-pole from Commissioning\relax }}{111}{figure.caption.107}
+\contentsline {figure}{\numberline {4.4.4}{\ignorespaces Output of the Program\relax }}{112}{figure.caption.108}
+\contentsline {figure}{\numberline {4.4.5}{\ignorespaces Signatures of Y-pole from Commissioning\relax }}{113}{figure.caption.109}
+\addvspace {10\p@ }

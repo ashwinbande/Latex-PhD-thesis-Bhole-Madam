@@ -1,0 +1,83 @@
+\select@language {english}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Certificate}{}{Doc-Start}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abstract}{}{chapter*.1}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Declaration}{}{chapter*.1}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Acknowledgement}{}{chapter*.1}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of Figures}{i}{chapter*.3}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of Tables}{v}{chapter*.4}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abbreviations}{vi}{chapter*.5}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Circuit Breaker Classification}{4}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Motivation}{7}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objectives}{8}{section.1.3}
+\contentsline {section}{\numberline {1.4}Theme}{9}{section.1.4}
+\contentsline {section}{\numberline {1.5}Organization}{11}{section.1.5}
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}The Electric Arc}{12}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Time-intervals in the interruption process of an electric arc}{13}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Arc-Circuit Interaction}{14}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Thermal regime}{15}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Dielectric regime}{16}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Circuit Breaker Modeling during Opening Operations}{18}{section.2.3}
+\contentsline {section}{\numberline {2.4}Arc Modeling}{18}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Physical arc models (PAM)}{20}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Black box models (BBM)}{20}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Cassie model}{21}{subsubsection.2.4.2.1}
+\contentsline {subsubsection}{\numberline {2.4.2.2}Mayr model}{22}{subsubsection.2.4.2.2}
+\contentsline {subsubsection}{\numberline {2.4.2.3}Browne model}{23}{subsubsection.2.4.2.3}
+\contentsline {subsubsection}{\numberline {2.4.2.4}Avdonin model}{24}{subsubsection.2.4.2.4}
+\contentsline {subsubsection}{\numberline {2.4.2.5}Urbanek model}{24}{subsubsection.2.4.2.5}
+\contentsline {subsubsection}{\numberline {2.4.2.6}Kopplin model}{25}{subsubsection.2.4.2.6}
+\contentsline {subsection}{\numberline {2.4.3}Parameter models (PM)}{26}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Circuit Breaker Modeling During Closing}{26}{section.2.5}
+\contentsline {section}{\numberline {2.6}SF\textsubscript {6} Circuit Breakers}{27}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Introduction}{27}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}SF\textsubscript {6} puffer circuit breakers}{28}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}SF\textsubscript {6} self-blast circuit breakers}{32}{subsection.2.6.3}
+\contentsline {section}{\numberline {2.7}Transient Recovery Voltage}{32}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Reactive equipment switching duty}{33}{subsection.2.7.1}
+\contentsline {subsubsection}{\numberline {2.7.1.1}First parallel oscillations}{35}{subsubsection.2.7.1.1}
+\contentsline {subsubsection}{\numberline {2.7.1.2}Second parallel oscillations}{36}{subsubsection.2.7.1.2}
+\contentsline {subsubsection}{\numberline {2.7.1.3}Main circuit oscillations}{36}{subsubsection.2.7.1.3}
+\contentsline {subsubsection}{\numberline {2.7.1.4}Source side oscillations}{36}{subsubsection.2.7.1.4}
+\contentsline {subsubsection}{\numberline {2.7.1.5}Load side oscillations}{36}{subsubsection.2.7.1.5}
+\contentsline {section}{\numberline {2.8}Time Definitions as per IEC}{37}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Contact resistance measurement}{38}{subsection.2.8.1}
+\contentsline {subsubsection}{\numberline {2.8.1.1}Static contact resistance measurement (SCRM)}{38}{subsubsection.2.8.1.1}
+\contentsline {subsubsection}{\numberline {2.8.1.2}Dynamic contact resistance measurement}{41}{subsubsection.2.8.1.2}
+\contentsline {section}{\numberline {2.9}Research Gap}{45}{section.2.9}
+\contentsline {chapter}{\numberline {3}SYSTEM DEVELOPMENT}{46}{chapter.3}
+\contentsline {section}{\numberline {3.1}Computational Models}{46}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Interruption of Three Phase to Ground fault}{46}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Interruption of Single Phase to Ground fault}{47}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Analytical Models}{49}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Transient Recovery Voltage types}{49}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Three phase terminal fault}{49}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Exponential (Overdamped) TRV}{52}{subsubsection.3.2.1.2}
+\contentsline {subsubsection}{\numberline {3.2.1.3}Single frequency recovery voltage}{52}{subsubsection.3.2.1.3}
+\contentsline {subsection}{\numberline {3.2.2}Traveling waves}{53}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Short Line Fault}{53}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Mathematical Model}{57}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Contact resistance measurement method}{59}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}DCRM signature analysis}{61}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Case studies}{61}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}New Algorithm for Contact Condition Detection of SF\textsubscript {6} CB}{77}{section.3.4}
+\contentsline {chapter}{\numberline {4}PERFORMANCE ANALYSIS}{84}{chapter.4}
+\contentsline {section}{\numberline {4.1}Computational Analysis}{84}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Simulation results for case-I}{84}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Simulation results for case-II}{85}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Simulation results for case-III}{85}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Simulation results for arc interruption}{86}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Analytical Analysis}{105}{section.4.2}
+\contentsline {section}{\numberline {4.3}Comparison between Computational and Analytical Analysis}{106}{section.4.3}
+\contentsline {section}{\numberline {4.4}Validation of Algorithm}{107}{section.4.4}
+\contentsline {section}{\numberline {4.5}Justification for Difference}{114}{section.4.5}
+\contentsline {chapter}{\numberline {5}CONCLUSIONS}{115}{chapter.5}
+\contentsline {section}{\numberline {5.1}Conclusions}{115}{section.5.1}
+\contentsline {section}{\numberline {5.2}Future Scope}{117}{section.5.2}
+\contentsline {section}{\numberline {5.3}Applications}{117}{section.5.3}
+\contentsline {section}{\numberline {5.4}Contributions}{118}{section.5.4}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Annexure A}{119}{chapter*.110}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Publications}{123}{section*.111}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }References}{124}{Item.37}

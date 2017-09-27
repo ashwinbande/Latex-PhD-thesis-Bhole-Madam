@@ -1,0 +1,2766 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.7)  27 SEP 2017 21:37
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count89
+\multirow@dima=\skip44
+\bigstrutjot=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks15
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks16
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks17
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+\c@definition=\count103
+\c@corollary=\count104
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen116
+\lightrulewidth=\dimen117
+\cmidrulewidth=\dimen118
+\belowrulesep=\dimen119
+\belowbottomsep=\dimen120
+\aboverulesep=\dimen121
+\abovetopsep=\dimen122
+\cmidrulesep=\dimen123
+\cmidrulekern=\dimen124
+\defaultaddspace=\dimen125
+\@cmidla=\count105
+\@cmidlb=\count106
+\@aboverulesep=\dimen126
+\@belowrulesep=\dimen127
+\@thisruleclass=\count107
+\@lastruleclass=\count108
+\@thisrulewidth=\dimen128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box28
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks26
+\float@box=\box29
+\@float@everytoks=\toks27
+\@floatcapt=\box30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks28
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count110
+\Hy@pagecounter=\count111
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count112
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count113
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen132
+\Fld@menulength=\count114
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count115
+\c@Item=\count116
+\c@Hfootnote=\count117
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count118
+\c@bookmark@seq@number=\count119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks29
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen143
+\nom@tempdim=\dimen144
+\nomitemsep=\skip54
+)
+\@nomenclaturefile=\write3
+\openout3 = `main.nlo'.
+
+
+Writing nomenclature file main.nlo
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen145
+\enit@toks=\toks30
+\enit@inbox=\box31
+\enitdp@description=\count123
+)
+\c@descriptcount=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\chngcntr\chngcntr.sty"
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count125
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box32
+\rot@mess@toks=\toks31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+)
+\c@ContinuedFloat=\count126
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count127
+\c@subtable=\count128
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip58
+\RaggedLeftLeftskip=\skip59
+\RaggedRightLeftskip=\skip60
+\CenteringRightskip=\skip61
+\RaggedLeftRightskip=\skip62
+\RaggedRightRightskip=\skip63
+\CenteringParfillskip=\skip64
+\RaggedLeftParfillskip=\skip65
+\RaggedRightParfillskip=\skip66
+\JustifyingParfillskip=\skip67
+\CenteringParindent=\skip68
+\RaggedLeftParindent=\skip69
+\RaggedRightParindent=\skip70
+\JustifyingParindent=\skip71
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty"
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2017/07/15 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2017/07/15 L3 programming layer (code)
+\c_max_int=\count129
+\l_tmpa_int=\count130
+\l_tmpb_int=\count131
+\g_tmpa_int=\count132
+\g_tmpb_int=\count133
+\g__intarray_font_int=\count134
+\g__prg_map_int=\count135
+\c_log_iow=\count136
+\l_iow_line_count_int=\count137
+\l__iow_line_target_int=\count138
+\l__iow_one_indent_int=\count139
+\l__iow_indent_int=\count140
+\c_zero_dim=\dimen153
+\c_max_dim=\dimen154
+\l_tmpa_dim=\dimen155
+\l_tmpb_dim=\dimen156
+\g_tmpa_dim=\dimen157
+\g_tmpb_dim=\dimen158
+\c_zero_skip=\skip72
+\c_max_skip=\skip73
+\l_tmpa_skip=\skip74
+\l_tmpb_skip=\skip75
+\g_tmpa_skip=\skip76
+\g_tmpb_skip=\skip77
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count141
+\c__fp_leading_shift_int=\count142
+\c__fp_middle_shift_int=\count143
+\c__fp_trailing_shift_int=\count144
+\c__fp_big_leading_shift_int=\count145
+\c__fp_big_middle_shift_int=\count146
+\c__fp_big_trailing_shift_int=\count147
+\c__fp_Bigg_leading_shift_int=\count148
+\c__fp_Bigg_middle_shift_int=\count149
+\c__fp_Bigg_trailing_shift_int=\count150
+\c__fp_rand_size_int=\count151
+\c__fp_rand_four_int=\count152
+\c__fp_rand_eight_int=\count153
+\l__sort_length_int=\count154
+\l__sort_min_int=\count155
+\l__sort_top_int=\count156
+\l__sort_max_int=\count157
+\l__sort_true_max_int=\count158
+\l__sort_block_int=\count159
+\l__sort_begin_int=\count160
+\l__sort_end_int=\count161
+\l__sort_A_int=\count162
+\l__sort_B_int=\count163
+\l__sort_C_int=\count164
+\l__tl_build_start_index_int=\count165
+\l__tl_build_index_int=\count166
+\l__tl_analysis_normal_int=\count167
+\l__tl_analysis_index_int=\count168
+\l__tl_analysis_nesting_int=\count169
+\l__tl_analysis_type_int=\count170
+\l__regex_internal_a_int=\count171
+\l__regex_internal_b_int=\count172
+\l__regex_internal_c_int=\count173
+\l__regex_balance_int=\count174
+\l__regex_group_level_int=\count175
+\l__regex_mode_int=\count176
+\c__regex_cs_in_class_mode_int=\count177
+\c__regex_cs_mode_int=\count178
+\l__regex_catcodes_int=\count179
+\l__regex_default_catcodes_int=\count180
+\c__regex_catcode_D_int=\count181
+\c__regex_catcode_S_int=\count182
+\c__regex_catcode_L_int=\count183
+\c__regex_catcode_O_int=\count184
+\c__regex_catcode_A_int=\count185
+\c__regex_all_catcodes_int=\count186
+\l__regex_show_lines_int=\count187
+\l__regex_min_state_int=\count188
+\l__regex_max_state_int=\count189
+\l__regex_left_state_int=\count190
+\l__regex_right_state_int=\count191
+\l__regex_capturing_group_int=\count192
+\l__regex_min_pos_int=\count193
+\l__regex_max_pos_int=\count194
+\l__regex_curr_pos_int=\count195
+\l__regex_start_pos_int=\count196
+\l__regex_success_pos_int=\count197
+\l__regex_curr_char_int=\count198
+\l__regex_curr_catcode_int=\count199
+\l__regex_last_char_int=\count266
+\l__regex_case_changed_char_int=\count267
+\l__regex_curr_state_int=\count268
+\l__regex_step_int=\count269
+\l__regex_min_active_int=\count270
+\l__regex_max_active_int=\count271
+\l__regex_replacement_csnames_int=\count272
+\l__regex_match_count_int=\count273
+\l__regex_min_submatch_int=\count274
+\l__regex_submatch_int=\count275
+\l__regex_zeroth_submatch_int=\count276
+\c_empty_box=\box33
+\l_tmpa_box=\box34
+\l_tmpb_box=\box35
+\g_tmpa_box=\box36
+\g_tmpb_box=\box37
+\l__box_top_dim=\dimen159
+\l__box_bottom_dim=\dimen160
+\l__box_left_dim=\dimen161
+\l__box_right_dim=\dimen162
+\l__box_top_new_dim=\dimen163
+\l__box_bottom_new_dim=\dimen164
+\l__box_left_new_dim=\dimen165
+\l__box_right_new_dim=\dimen166
+\l__box_internal_box=\box38
+\l__coffin_internal_box=\box39
+\l__coffin_internal_dim=\dimen167
+\l__coffin_offset_x_dim=\dimen168
+\l__coffin_offset_y_dim=\dimen169
+\l__coffin_x_dim=\dimen170
+\l__coffin_y_dim=\dimen171
+\l__coffin_x_prime_dim=\dimen172
+\l__coffin_y_prime_dim=\dimen173
+\c_empty_coffin=\box40
+\l__coffin_aligned_coffin=\box41
+\l__coffin_aligned_internal_coffin=\box42
+\l_tmpa_coffin=\box43
+\l_tmpb_coffin=\box44
+\l__coffin_display_coffin=\box45
+\l__coffin_display_coord_coffin=\box46
+\l__coffin_display_pole_coffin=\box47
+\l__coffin_display_offset_dim=\dimen174
+\l__coffin_display_x_dim=\dimen175
+\l__coffin_display_y_dim=\dimen176
+\l__coffin_bounding_shift_dim=\dimen177
+\l__coffin_left_corner_dim=\dimen178
+\l__coffin_right_corner_dim=\dimen179
+\l__coffin_bottom_corner_dim=\dimen180
+\l__coffin_top_corner_dim=\dimen181
+\l__coffin_scaled_total_height_dim=\dimen182
+\l__coffin_scaled_width_dim=\dimen183
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count277
+\l__driver_tmp_box=\box48
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2017/07/15 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count278
+\g__xparse_grabber_int=\count279
+\l__xparse_m_args_int=\count280
+\l__xparse_mandatory_args_int=\count281
+\l__xparse_v_nesting_int=\count282
+)
+Package: siunitx 2017/08/02 v2.7j A comprehensive (SI) units package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2017/07/15 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box49
+\l__siunitx_tmp_dim=\dimen184
+\l__siunitx_tmp_int=\count283
+\l__siunitx_number_mantissa_length_int=\count284
+\l__siunitx_number_uncert_length_int=\count285
+\l__siunitx_round_int=\count286
+\l__siunitx_process_decimal_int=\count287
+\l__siunitx_process_uncertainty_int=\count288
+\l__siunitx_process_fixed_int=\count289
+\l__siunitx_process_integer_min_int=\count290
+\l__siunitx_process_precision_int=\count291
+\l__siunitx_group_min_int=\count292
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_angle_marker_dim=\dimen185
+\l__siunitx_angle_unit_dim=\dimen186
+\l__siunitx_unit_int=\count293
+\l__siunitx_unit_denominator_int=\count294
+\l__siunitx_unit_numerator_int=\count295
+\l__siunitx_unit_prefix_int=\count296
+\l__siunitx_unit_prefix_base_int=\count297
+\l__siunitx_unit_prefix_gram_int=\count298
+\l__siunitx_number_product_int=\count299
+\c__siunitx_one_fill_skip=\skip78
+\l__siunitx_table_unit_align_skip=\skip79
+\l__siunitx_table_exponent_dim=\dimen187
+\l__siunitx_table_integer_dim=\dimen188
+\l__siunitx_table_mantissa_dim=\dimen189
+\l__siunitx_table_marker_dim=\dimen190
+\l__siunitx_table_result_dim=\dimen191
+\l__siunitx_table_uncert_dim=\dimen192
+\l__siunitx_table_fill_pre_dim=\dimen193
+\l__siunitx_table_fill_post_dim=\dimen194
+\l__siunitx_table_fill_mid_dim=\dimen195
+\l__siunitx_table_pre_box=\box52
+\l__siunitx_table_post_box=\box53
+\l__siunitx_table_mantissa_box=\box54
+\l__siunitx_table_result_box=\box55
+\l__siunitx_table_number_align_skip=\skip80
+\l__siunitx_table_text_align_skip=\skip81
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7247.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7265.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7280.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7289.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7298.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7307.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7319.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7331.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7343.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7346.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7361.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7373.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7420.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7422.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7424.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7428.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7429.
+.................................................
+\g__file_internal_ior=\read1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator-language-m
+appings.tex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip82
+\f@ncyO@elh=\skip83
+\f@ncyO@erh=\skip84
+\f@ncyO@olh=\skip85
+\f@ncyO@orh=\skip86
+\f@ncyO@elf=\skip87
+\f@ncyO@erf=\skip88
+\f@ncyO@olf=\skip89
+\f@ncyO@orf=\skip90
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count300
+\lst@gtempboxa=\box56
+\lst@token=\toks32
+\lst@length=\count301
+\lst@currlwidth=\dimen196
+\lst@column=\count302
+\lst@pos=\count303
+\lst@lostspace=\dimen197
+\lst@width=\dimen198
+\lst@newlines=\count304
+\lst@lineno=\count305
+\lst@maxwidth=\dimen199
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count306
+\lst@skipnumbers=\count307
+\lst@framebox=\box57
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 171.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 171.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 171.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen256
+\scratchbox=\box58
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen257
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks34
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 171.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count314
+)
+LaTeX Info: Redefining \ref on input line 171.
+LaTeX Info: Redefining \pageref on input line 171.
+LaTeX Info: Redefining \nameref on input line 171.
+
+(main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=700.50687pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 171.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
+c-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/08/02 v2.7j siunitx: Abbreviated units
+)
+\c@lstlisting=\count315
+\c__siunitx_mathsf_int=\count316
+LaTeX Font Info:    Try loading font information for U+msa on input line 171.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 171.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+\c__siunitx_mathtt_int=\count317
+ (chapters/Front.tex
+<images/universityLOGOf.png, id=329, 168.63pt x 178.41656pt>
+File: images/universityLOGOf.png Graphic file (type png)
+
+<use images/universityLOGOf.png>
+Package pdftex.def Info: images/universityLOGOf.png used on input line 8.
+(pdftex.def)             Requested size: 125.05113pt x 132.31203pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/universityLOGOf.
+png>]pdfTeX warning (ext4): destination with the same identifier (name{page.}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54 \clearpage
+                [2
+
+] <images/universityLOGO.png, id=344, 149.55875pt x 160.6pt>
+File: images/universityLOGO.png Graphic file (type png)
+
+<use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 60.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.79 \clearpage
+                [3
+
+ <./images/universityLOGO.png>]
+File: images/universityLOGO.png Graphic file (type png)
+
+<use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 87.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+
+Overfull \hbox (0.51642pt too wide) in paragraph at lines 93--94
+\OT1/cmr/m/n/12 by \OT1/cmr/bx/n/12 `Mrs. Anita Arun Bhole' \OT1/cmr/m/n/12 un-
+der my su-per-vi-sion and guid-ance at Gov-ern-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+
+Overfull \hbox (33.85196pt too wide) in paragraph at lines 99--110
+[]  $[]$ 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111 \clearpage
+                 [4
+
+] (chapters/Abstract.tex)pdfTeX warning (ext4): destination with the same ident
+ifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \clearpage
+                 [5
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \clearpage
+                 [6]
+File: images/universityLOGO.png Graphic file (type png)
+ <use images/universityLOGO.png>
+Package pdftex.def Info: images/universityLOGO.png used on input line 123.
+(pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+
+ []
+
+
+Overfull \hbox (33.85196pt too wide) in paragraph at lines 136--145
+[]  $[]$ 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.145 \clearpage
+                 [7
+
+]
+Overfull \hbox (1.6624pt too wide) in paragraph at lines 182--183
+\OT1/cmr/m/n/12 dur-ing the re-search work. I wish to thank In-ter-nal Mon-i-to
+r-ing Com-mit-tee Mem-bers
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.193 \clearpage
+                 [8
+
+])
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(65.04256pt, 714.96173pt, 65.04256pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=714.96173pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-44.22743pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (main.tocpdfTeX warning (ext4): destination with the same identifier (name{pag
+e.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 ...al arc models (PAM)}{20}{subsection.2.4.1}
+                                                   [9
+
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.56 ...terminal fault}{49}{subsubsection.3.2.1.1}
+                                                   [10])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 \restoregeometry
+                       [11] (main.lof
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\hbox' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@tempdima' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\hfil' on input line 2.
+
+
+Overfull \hbox (4.59065pt too wide) in paragraph at lines 26--26
+ [][] [][]\OT1/cmr/m/n/12 Time Def-i-ni-tions dur-ing Close-Open Cy-cle for CB 
+with-out Switch-ing 
+ []
+
+[1
+
+
+
+] [2]
+Overfull \hbox (16.73935pt too wide) in paragraph at lines 60--60
+ [][] [][]\OT1/cmr/m/n/12 Standard TRV En-ve-lope and Phase A TRV for Mul-ti-pl
+e Line Switch-ing 
+ []
+
+[3])
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [4] (main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ (main.nls [5
+
+]) [6
+
+] (chapters/nomenclature.tex)
+Chapter 1.
+(chapters/Introduction.tex
+Overfull \hbox (3.90182pt too wide) in paragraph at lines 4--6
+\OT1/cmr/m/n/12 (CB) as, \A me-chan-i-cal switch-ing de-vice, ca-pa-ble of mak-
+ing, car-ry-ing, and break-ing
+ []
+
+
+Overfull \hbox (0.81pt too wide) in paragraph at lines 19--20
+\OT1/cmr/m/n/12 Con-di-tion mon-i-tor-ing of con-tacts avoids the fail-ure of t
+his crit-i-cal com-po-nent. 
+ []
+
+[1
+
+]
+Overfull \hbox (8.90436pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/12 The in-su-lat-ing com-po-nents must be so de-signed as to with-
+stand the me-chan-i-cal
+ []
+
+
+Overfull \hbox (1.4837pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/12 Control and aux-il-iary com-po-nents are con-trolled by 110-220
+ V DC. Ac-cord-ing
+ []
+
+
+Overfull \hbox (3.15997pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/12 to re-li-a-bil-ity sur-veys, con-trol and aux-il-iary com-po-ne
+nts are ex-posed to fail-ures
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] <images/ApplicationofCBs.png, id=865, 752.8125pt x 431.36156pt>
+File: images/ApplicationofCBs.png Graphic file (type png)
+
+<use images/ApplicationofCBs.png>
+Package pdftex.def Info: images/ApplicationofCBs.png used on input line 40.
+(pdftex.def)             Requested size: 416.83289pt x 238.84901pt.
+
+<images/MafRateper.png, id=870, 746.79pt x 501.37312pt>
+File: images/MafRateper.png Graphic file (type png)
+
+<use images/MafRateper.png>
+Package pdftex.def Info: images/MafRateper.png used on input line 49.
+(pdftex.def)             Requested size: 416.83289pt x 279.84898pt.
+ [3 <./images/ApplicationofCBs.png>]
+Overfull \hbox (2.92384pt too wide) in paragraph at lines 66--66
+ []|\OT1/cmr/bx/n/10.95 MaF(%)| 
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 73--73
+[]|\OT1/cmr/m/n/10.95 Locked in open or closed
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 73--73
+[]|\OT1/cmr/m/n/10.95 Alarm has been trig-gered by the con-trol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\OT1/cmr/m/n/10.95 Oil leak-age in grad-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\OT1/cmr/m/n/10.95 Change in func-tional
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 83--84
+[]|\OT1/cmr/m/n/10.95 6.8% me-chan-i-cal; 3.3% elec-tri-cal 18.3%
+ []
+
+
+Overfull \hbox (18.25206pt too wide) in paragraph at lines 57--92
+[] 
+ []
+
+<images/ClassificationofCBs.pdf, id=885, 1527.7075pt x 693.59125pt>
+File: images/ClassificationofCBs.pdf Graphic file (type pdf)
+
+<use images/ClassificationofCBs.pdf>
+Package pdftex.def Info: images/ClassificationofCBs.pdf used on input line 99.
+(pdftex.def)             Requested size: 700.50687pt x 318.02927pt.
+ [4 <./images/MafRateper.png>] [5] [6 <./images/ClassificationofCBs.pdf>] [7
+
+] [8
+
+]
+<images/ThemeoftheResearchWork.pdf, id=1006, 935.495pt x 829.0975pt>
+File: images/ThemeoftheResearchWork.pdf Graphic file (type pdf)
+
+<use images/ThemeoftheResearchWork.pdf>
+Package pdftex.def Info: images/ThemeoftheResearchWork.pdf used on input line 1
+35.
+(pdftex.def)             Requested size: 416.83289pt x 369.4343pt.
+
+<images/NormalDCRMSignature.png, id=1007, 694.09312pt x 364.36125pt>
+File: images/NormalDCRMSignature.png Graphic file (type png)
+
+<use images/NormalDCRMSignature.png>
+Package pdftex.def Info: images/NormalDCRMSignature.png used on input line 142.
+
+(pdftex.def)             Requested size: 416.83289pt x 218.81857pt.
+ [9
+
+] [10 <./images/ThemeoftheResearchWork.pdf> <./images/NormalDCRMSignature.png>]
+) [11
+
+]
+Chapter 2.
+(chapters/LiteratureSurvey.tex
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+ [12
+
+]
+<images/PotentialDistributionAlonganArcChannel.png, id=1057, 599.23875pt x 549.
+55313pt>
+File: images/PotentialDistributionAlonganArcChannel.png Graphic file (type png)
+
+ <use images/PotentialDistributionAlonganArcChannel.png>
+Package pdftex.def Info: images/PotentialDistributionAlonganArcChannel.png used
+ on input line 17.
+(pdftex.def)             Requested size: 416.83289pt x 382.27792pt.
+
+<images/IntervalsandFailureModesintheInterruptionProcess.png, id=1061, 731.7337
+5pt x 314.67563pt>
+File: images/IntervalsandFailureModesintheInterruptionProcess.png Graphic file 
+(type png)
+
+<use images/IntervalsandFailureModesintheInterruptionProcess.png>
+Package pdftex.def Info: images/IntervalsandFailureModesintheInterruptionProces
+s.png used on input line 34.
+(pdftex.def)             Requested size: 416.83289pt x 179.25653pt.
+ [13 <./images/PotentialDistributionAlonganArcChannel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+<images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png, id=1071, 
+331.2375pt x 143.03438pt>
+File: images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png Graph
+ic file (type png)
+
+<use images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png>
+Package pdftex.def Info: images/RepresentationoftheNetworkConnectedtotheBreaker
+Terminals.png used on input line 53.
+(pdftex.def)             Requested size: 416.83289pt x 180.00381pt.
+
+[14 <./images/IntervalsandFailureModesintheInterruptionProcess.png>]
+<images/CurvesofShortCircuitCurrentandRecoveryVoltage.png, id=1080, 370.38374pt
+ x 224.33812pt>
+File: images/CurvesofShortCircuitCurrentandRecoveryVoltage.png Graphic file (ty
+pe png)
+ <use images/CurvesofShortCircuitCurrentandRecoveryVoltage.png>
+Package pdftex.def Info: images/CurvesofShortCircuitCurrentandRecoveryVoltage.p
+ng used on input line 68.
+(pdftex.def)             Requested size: 416.83289pt x 252.4756pt.
+
+[15 <./images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png>]
+<images/CurrentShapesatInterruption.png, id=1091, 505.89pt x 323.70938pt>
+File: images/CurrentShapesatInterruption.png Graphic file (type png)
+
+<use images/CurrentShapesatInterruption.png>
+Package pdftex.def Info: images/CurrentShapesatInterruption.png used on input l
+ine 82.
+(pdftex.def)             Requested size: 416.83289pt x 266.72765pt.
+
+<images/DielectricInterruptionRegime.png, id=1095, 331.2375pt x 203.25937pt>
+File: images/DielectricInterruptionRegime.png Graphic file (type png)
+
+<use images/DielectricInterruptionRegime.png>
+Package pdftex.def Info: images/DielectricInterruptionRegime.png used on input 
+line 92.
+(pdftex.def)             Requested size: 416.83289pt x 255.79489pt.
+ [16 <./images/CurvesofShortCircuitCurrentandRecoveryVoltage.png>] [17 <./image
+s/CurrentShapesatInterruption.png> <./images/DielectricInterruptionRegime.png>]
+
+Overfull \hbox (2.55766pt too wide) in paragraph at lines 116--116
+ \OT1/cmr/bx/n/10.95 Tran-sients| 
+ []
+
+
+Overfull \hbox (4.31924pt too wide) in paragraph at lines 120--120
+ []|[]| 
+ []
+
+
+Overfull \hbox (2.96918pt too wide) in paragraph at lines 122--122
+ \OT1/cmr/m/n/10.95 char-ac-ter-is-tics| 
+ []
+
+
+Overfull \hbox (10.645pt too wide) in paragraph at lines 109--126
+[] 
+ []
+
+
+Overfull \hbox (11.40665pt too wide) in paragraph at lines 142--143
+\OT1/cmr/m/n/12 ex-change mech-a-nisms (ra-di-a-tion, heat con-duc-tion, tur-bu
+-lence). The de-sign en-gi-neers
+ []
+
+[18] [19]
+Overfull \hbox (4.6521pt too wide) in paragraph at lines 169--176
+[][] 
+ []
+
+[20]
+Overfull \hbox (12.38164pt too wide) in paragraph at lines 184--185
+\OT1/cmr/m/n/12 model. Knowl-edge of the ini-tial in-ter-rupt-ing cur-rent and 
+breaker char-ac-ter-is-tics
+ []
+
+[21] [22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 235--242
+
+ []
+
+
+Overfull \hbox (1.51509pt too wide) in paragraph at lines 257--258
+\OT1/cmr/m/n/12 rep-re-sent gen-er-a-tor cir-cuit break-ers [[]35[]]. For the a
+rc con-duc-tance it is char-ac-ter-ized
+ []
+
+[24]
+Overfull \hbox (1.36838pt too wide) in paragraph at lines 283--283
+ []|\OT1/cmr/bx/n/10.95 Operation| 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 285--286
+[]|\OT1/cmr/m/n/10.95 Mechanical sys-tem di-men-sion-ing of
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 288--288
+[]|\OT1/cmr/m/n/10.95 Influence of arc asym-me-try and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[]|\OT1/cmr/m/n/10.95 Interruption of small in-duc-tive
+ []
+
+[25]
+<images/PrestrikePhenomenonduringClosing.png, id=1200, 424.58624pt x 301.8778pt
+>
+File: images/PrestrikePhenomenonduringClosing.png Graphic file (type png)
+ <use images/PrestrikePhenomenonduringClosing.png>
+Package pdftex.def Info: images/PrestrikePhenomenonduringClosing.png used on in
+put line 304.
+(pdftex.def)             Requested size: 416.83289pt x 296.37715pt.
+ [26 <./images/PrestrikePhenomenonduringClosing.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 318.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 318.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 318.
+
+
+<images/VoltageRangeofApplicationofBreakingTechnologies.png, id=1213, 511.9125p
+t x 290.58563pt>
+File: images/VoltageRangeofApplicationofBreakingTechnologies.png Graphic file (
+type png)
+
+<use images/VoltageRangeofApplicationofBreakingTechnologies.png>
+Package pdftex.def Info: images/VoltageRangeofApplicationofBreakingTechnologies
+.png used on input line 325.
+(pdftex.def)             Requested size: 416.83289pt x 236.61458pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 332.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 332.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 332.
+
+[27]
+<images/MainComponentsofthePufferInterrupter.png, id=1224, 511.9125pt x 532.238
+43pt>
+File: images/MainComponentsofthePufferInterrupter.png Graphic file (type png)
+ <use images/MainComponentsofthePufferInterrupter.png>
+Package pdftex.def Info: images/MainComponentsofthePufferInterrupter.png used o
+n input line 339.
+(pdftex.def)             Requested size: 416.83289pt x 433.38472pt.
+
+<images/FunctionofaPufferInterrupter.png, id=1225, 813.0375pt x 634.62094pt>
+File: images/FunctionofaPufferInterrupter.png Graphic file (type png)
+
+<use images/FunctionofaPufferInterrupter.png>
+Package pdftex.def Info: images/FunctionofaPufferInterrupter.png used on input 
+line 348.
+(pdftex.def)             Requested size: 458.5187pt x 357.89333pt.
+
+Overfull \hbox (41.68582pt too wide) in paragraph at lines 348--349
+ [][] 
+ []
+
+<images/PressureinthePuffer.png, id=1226, 334.24875pt x 462.97969pt>
+File: images/PressureinthePuffer.png Graphic file (type png)
+
+<use images/PressureinthePuffer.png>
+Package pdftex.def Info: images/PressureinthePuffer.png used on input line 362.
+
+(pdftex.def)             Requested size: 416.83289pt x 577.41624pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 368.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 368.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 368.
+
+[28 <./images/VoltageRangeofApplicationofBreakingTechnologies.png>] [29 <./imag
+es/MainComponentsofthePufferInterrupter.png>] [30 <./images/FunctionofaPufferIn
+terrupter.png>] [31 <./images/PressureinthePuffer.png>]
+<images/IllustrationoftheSourcesofTRV.png, id=1249, 379.4175pt x 245.41687pt>
+File: images/IllustrationoftheSourcesofTRV.png Graphic file (type png)
+
+<use images/IllustrationoftheSourcesofTRV.png>
+Package pdftex.def Info: images/IllustrationoftheSourcesofTRV.png used on input
+ line 376.
+(pdftex.def)             Requested size: 416.83289pt x 269.62234pt.
+
+<images/IECTwoandFourParameterLimitingTRVCurves.png, id=1254, 388.45125pt x 197
+.98969pt>
+File: images/IECTwoandFourParameterLimitingTRVCurves.png Graphic file (type png
+)
+ <use images/IECTwoandFourParameterLimitingTRVCurves.png>
+Package pdftex.def Info: images/IECTwoandFourParameterLimitingTRVCurves.png use
+d on input line 393.
+(pdftex.def)             Requested size: 416.83289pt x 212.46014pt.
+ [32]
+<images/ShuntReactorEquivalentCircuit.png, id=1270, 412.54124pt x 146.04562pt>
+File: images/ShuntReactorEquivalentCircuit.png Graphic file (type png)
+
+<use images/ShuntReactorEquivalentCircuit.png>
+Package pdftex.def Info: images/ShuntReactorEquivalentCircuit.png used on input
+ line 422.
+(pdftex.def)             Requested size: 416.83289pt x 147.56728pt.
+ [33 <./images/IllustrationoftheSourcesofTRV.png>] [34 <./images/IECTwoandFourP
+arameterLimitingTRVCurves.png>]
+[35 <./images/ShuntReactorEquivalentCircuit.png>]
+Overfull \hbox (5.6405pt too wide) in paragraph at lines 449--450
+\OT1/cmr/m/n/12 The com-po-nents which re-late to main cir-cuit os-cil-la-tion 
+are: gen-er-a-tor, ca-pac-i-tances
+ []
+
+
+<images/Oscillationmodesinreactorcircuit.png, id=1299, 758.835pt x 456.20438pt>
+File: images/Oscillationmodesinreactorcircuit.png Graphic file (type png)
+<use images/Oscillationmodesinreactorcircuit.png>
+Package pdftex.def Info: images/Oscillationmodesinreactorcircuit.png used on in
+put line 469.
+(pdftex.def)             Requested size: 416.83289pt x 250.59991pt.
+ [36] [37 <./images/Oscillationmodesinreactorcircuit.png>]
+<images/TimeDefinitionsduringOpeningandClosing1.png, id=1320, 566.115pt x 371.8
+8937pt>
+File: images/TimeDefinitionsduringOpeningandClosing1.png Graphic file (type png
+)
+ <use images/TimeDefinitionsduringOpeningandClosing1.png>
+Package pdftex.def Info: images/TimeDefinitionsduringOpeningandClosing1.png use
+d on input line 502.
+(pdftex.def)             Requested size: 416.83289pt x 273.83192pt.
+
+<images/TimeDefinitionsduringOpeningandClosing2.png, id=1321, 569.12625pt x 398
+.23781pt>
+File: images/TimeDefinitionsduringOpeningandClosing2.png Graphic file (type png
+)
+ <use images/TimeDefinitionsduringOpeningandClosing2.png>
+Package pdftex.def Info: images/TimeDefinitionsduringOpeningandClosing2.png use
+d on input line 503.
+(pdftex.def)             Requested size: 416.83289pt x 291.68344pt.
+
+<images/TimeDefinitionsduringCloseOpenCycleforCBwithout.png, id=1322, 771.63281
+pt x 430.60875pt>
+File: images/TimeDefinitionsduringCloseOpenCycleforCBwithout.png Graphic file (
+type png)
+
+<use images/TimeDefinitionsduringCloseOpenCycleforCBwithout.png>
+Package pdftex.def Info: images/TimeDefinitionsduringCloseOpenCycleforCBwithout
+.png used on input line 511.
+(pdftex.def)             Requested size: 700.50687pt x 390.91496pt.
+ [38] [39 <./images/TimeDefinitionsduringOpeningandClosing1.png> <./images/Time
+DefinitionsduringOpeningandClosing2.png>] [40 <./images/TimeDefinitionsduringCl
+oseOpenCycleforCBwithout.png>]
+Overfull \hbox (8.11142pt too wide) in paragraph at lines 522--523
+\OT1/cmr/m/n/12 cur-rent  in-ter-rup-tion ca-pa-bil-ity of CB. It can be done b
+y open-ing the CB in-ter-rup-tion
+ []
+
+<images/FlowChartofDCRM.pdf, id=1348, 503.8825pt x 668.4975pt>
+File: images/FlowChartofDCRM.pdf Graphic file (type pdf)
+
+<use images/FlowChartofDCRM.pdf>
+Package pdftex.def Info: images/FlowChartofDCRM.pdf used on input line 529.
+(pdftex.def)             Requested size: 416.83289pt x 553.0065pt.
+ [41] [42 <./images/FlowChartofDCRM.pdf>]
+[43]
+Overfull \hbox (5.79282pt too wide) in paragraph at lines 548--549
+\OT1/cmr/m/n/12 be-tween con-tact sep-a-ra-tions in suc-ces-sive op-er-a-tion. 
+The con-tacts need the over-haul
+ []
+
+
+Overfull \hbox (4.75719pt too wide) in paragraph at lines 554--555
+[]\OT1/cmr/m/n/12 Principal com-po-nent anal-y-sis is used to get the in-for-ma
+-tion from dy-namic re-sis-tance
+ []
+
+
+Overfull \hbox (6.87244pt too wide) in paragraph at lines 560--561
+[]\OT1/cmr/m/n/12 Use of Ar-duino plat-form in mea-sur-ing and pro-cess-ing the
+ dy-namic con-tact re-sis-tance
+ []
+
+[44]) [45]
+Chapter 3.
+(chapters/SystemDevelopment.tex
+Overfull \hbox (1.15863pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/m/n/12 Measurement of Dy-namic Con-tact Re-sis-tance of CBs and anal
+-y-sis of col-lected
+ []
+
+[46
+
+] <images/onelinediagram.pdf, id=1436, 419.31656pt x 301.125pt>
+File: images/onelinediagram.pdf Graphic file (type pdf)
+
+<use images/onelinediagram.pdf>
+Package pdftex.def Info: images/onelinediagram.pdf used on input line 19.
+(pdftex.def)             Requested size: 416.83289pt x 299.34146pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+[47 <./images/onelinediagram.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--61
+
+ []
+
+[48
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Overfull \hbox (2.93428pt too wide) in paragraph at lines 67--67
+ []|\OT1/cmr/m/n/12 Horizontal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--84
+
+ []
+
+[49
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 105--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+<images/f1SingleLineDiagram.png, id=1467, 261.97874pt x 163.3603pt>
+File: images/f1SingleLineDiagram.png Graphic file (type png)
+
+<use images/f1SingleLineDiagram.png>
+Package pdftex.def Info: images/f1SingleLineDiagram.png used on input line 131.
+
+(pdftex.def)             Requested size: 261.9781pt x 163.3599pt.
+
+<images/f2ThreePhaseDiagram.png, id=1468, 325.215pt x 249.18094pt>
+File: images/f2ThreePhaseDiagram.png Graphic file (type png)
+
+<use images/f2ThreePhaseDiagram.png>
+Package pdftex.def Info: images/f2ThreePhaseDiagram.png used on input line 138.
+
+(pdftex.def)             Requested size: 325.2142pt x 249.18031pt.
+
+<images/f3EquivalentCircuitn.png, id=1469, 316.18124pt x 158.09062pt>
+File: images/f3EquivalentCircuitn.png Graphic file (type png)
+
+<use images/f3EquivalentCircuitn.png>
+Package pdftex.def Info: images/f3EquivalentCircuitn.png used on input line 145
+.
+(pdftex.def)             Requested size: 316.18047pt x 158.09023pt.
+ [50] [51 <./images/f1SingleLineDiagram.png> <./images/f2ThreePhaseDiagram.png>
+ <./images/f3EquivalentCircuitn.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 160--169
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+[53]
+<images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.png, id=1507
+, 430.60875pt x 341.77687pt>
+File: images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.png Gra
+phic file (type png)
+
+<use images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.png>
+Package pdftex.def Info: images/LatticeDiagramtoEvaluatetheCharacteristicsofTra
+vellingWave.png used on input line 230.
+(pdftex.def)             Requested size: 416.83289pt x 330.85042pt.
+
+<images/g1SinglePhaseCircuitwith.png, id=1508, 268.00125pt x 171.64125pt>
+File: images/g1SinglePhaseCircuitwith.png Graphic file (type png)
+
+<use images/g1SinglePhaseCircuitwith.png>
+Package pdftex.def Info: images/g1SinglePhaseCircuitwith.png used on input line
+ 239.
+(pdftex.def)             Requested size: 208.41644pt x 133.4789pt.
+
+<images/g2LineSideandSourceSideVoltages.png, id=1509, 399.74344pt x 268.75406pt
+>
+File: images/g2LineSideandSourceSideVoltages.png Graphic file (type png)
+ <use images/g2LineSideandSourceSideVoltages.png>
+Package pdftex.def Info: images/g2LineSideandSourceSideVoltages.png used on inp
+ut line 246.
+(pdftex.def)             Requested size: 204.2504pt x 137.3211pt.
+
+<images/g3TransientRecoveryVoltage.png, id=1510, 392.21532pt x 268.75406pt>
+File: images/g3TransientRecoveryVoltage.png Graphic file (type png)
+
+<use images/g3TransientRecoveryVoltage.png>
+Package pdftex.def Info: images/g3TransientRecoveryVoltage.png used on input li
+ne 252.
+(pdftex.def)             Requested size: 204.2504pt x 139.95795pt.
+ [54] [55 <./images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.
+png>] [56 <./images/g1SinglePhaseCircuitwith.png> <./images/g2LineSideandSource
+SideVoltages.png> <./images/g3TransientRecoveryVoltage.png>] [57
+
+]
+<images/SchematicofForcesExertedontheFixed.png, id=1541, 659.46375pt x 345.5409
+4pt>
+File: images/SchematicofForcesExertedontheFixed.png Graphic file (type png)
+ <use images/SchematicofForcesExertedontheFixed.png>
+Package pdftex.def Info: images/SchematicofForcesExertedontheFixed.png used on 
+input line 293.
+(pdftex.def)             Requested size: 416.83289pt x 218.41428pt.
+ [58 <./images/SchematicofForcesExertedontheFixed.png>]
+<images/SchematicDiagramofStaticContactResistanceMeasurement.jpg, id=1556, 377.
+15906pt x 261.97874pt>
+File: images/SchematicDiagramofStaticContactResistanceMeasurement.jpg Graphic f
+ile (type jpg)
+
+<use images/SchematicDiagramofStaticContactResistanceMeasurement.jpg>
+Package pdftex.def Info: images/SchematicDiagramofStaticContactResistanceMeasur
+ement.jpg used on input line 345.
+(pdftex.def)             Requested size: 416.83289pt x 289.53665pt.
+
+<images/SchematicDiagramofDCRM.png, id=1557, 695.59875pt x 285.31593pt>
+File: images/SchematicDiagramofDCRM.png Graphic file (type png)
+
+<use images/SchematicDiagramofDCRM.png>
+Package pdftex.def Info: images/SchematicDiagramofDCRM.png used on input line 3
+52.
+(pdftex.def)             Requested size: 416.83289pt x 170.97319pt.
+ [59] [60 <./images/SchematicDiagramofStaticContactResistanceMeasurement.jpg> <
+./images/SchematicDiagramofDCRM.png>]
+<images/h1Stablecurrentsource.png, id=1571, 200.75pt x 155.58125pt>
+File: images/h1Stablecurrentsource.png Graphic file (type png)
+
+<use images/h1Stablecurrentsource.png>
+Package pdftex.def Info: images/h1Stablecurrentsource.png used on input line 36
+3.
+(pdftex.def)             Requested size: 204.2504pt x 158.3038pt.
+
+<images/h2Dataacquisitionsystem.jpg, id=1572, 142.569pt x 101.5065pt>
+File: images/h2Dataacquisitionsystem.jpg Graphic file (type jpg)
+
+<use images/h2Dataacquisitionsystem.jpg>
+Package pdftex.def Info: images/h2Dataacquisitionsystem.jpg used on input line 
+370.
+(pdftex.def)             Requested size: 204.25714pt x 142.27226pt.
+
+<images/h3VoltageandCurrentsensors.png, id=1573, 234.8775pt x 176.66pt>
+File: images/h3VoltageandCurrentsensors.png Graphic file (type png)
+
+<use images/h3VoltageandCurrentsensors.png>
+Package pdftex.def Info: images/h3VoltageandCurrentsensors.png used on input li
+ne 376.
+(pdftex.def)             Requested size: 204.24858pt x 142.26625pt.
+
+<images/h4Testmanagersoftware.png, id=1574, 234.8775pt x 240.9pt>
+File: images/h4Testmanagersoftware.png Graphic file (type png)
+
+<use images/h4Testmanagersoftware.png>
+Package pdftex.def Info: images/h4Testmanagersoftware.png used on input line 38
+3.
+(pdftex.def)             Requested size: 204.2504pt x 209.48572pt.
+
+<images/MeasurementDetailsfromDCRMSignature.png, id=1577, 470.50781pt x 259.720
+3pt>
+File: images/MeasurementDetailsfromDCRMSignature.png Graphic file (type png)
+ <use images/MeasurementDetailsfromDCRMSignature.png>
+Package pdftex.def Info: images/MeasurementDetailsfromDCRMSignature.png used on
+ input line 398.
+(pdftex.def)             Requested size: 416.83289pt x 230.09221pt.
+
+<images/EnlargedViewofTrippingPortionofDCRMSignature.png, id=1578, 457.71pt x 2
+74.02374pt>
+File: images/EnlargedViewofTrippingPortionofDCRMSignature.png Graphic file (typ
+e png)
+ <use images/EnlargedViewofTrippingPortionofDCRMSignature.png>
+Package pdftex.def Info: images/EnlargedViewofTrippingPortionofDCRMSignature.pn
+g used on input line 420.
+(pdftex.def)             Requested size: 416.83289pt x 249.5627pt.
+
+[61] [62 <./images/h1Stablecurrentsource.png> <./images/h2Dataacquisitionsystem
+.jpg> <./images/h3VoltageandCurrentsensors.png> <./images/h4Testmanagersoftware
+.png>] [63 <./images/MeasurementDetailsfromDCRMSignature.png>]
+Overfull \hbox (12.3858pt too wide) in paragraph at lines 432--433
+[]\OT1/cmr/m/n/12 The ex-ter-nal con-nec-tions were ver-i-fied and were found n
+or-mal. The con-nec-tions
+ []
+
+[64 <./images/EnlargedViewofTrippingPortionofDCRMSignature.png>]
+<images/ContactBouncingafterClosingCycle.png, id=1603, 403.5075pt x 367.3725pt>
+File: images/ContactBouncingafterClosingCycle.png Graphic file (type png)
+<use images/ContactBouncingafterClosingCycle.png>
+Package pdftex.def Info: images/ContactBouncingafterClosingCycle.png used on in
+put line 447.
+(pdftex.def)             Requested size: 416.83289pt x 379.5078pt.
+
+<images/DCRMSignatureShowingFluctuationsinResistance.png, id=1604, 431.36156pt 
+x 326.72063pt>
+File: images/DCRMSignatureShowingFluctuationsinResistance.png Graphic file (typ
+e png)
+ <use images/DCRMSignatureShowingFluctuationsinResistance.png>
+Package pdftex.def Info: images/DCRMSignatureShowingFluctuationsinResistance.pn
+g used on input line 454.
+(pdftex.def)             Requested size: 416.83289pt x 315.72711pt.
+
+[65 <./images/ContactBouncingafterClosingCycle.png>] [66 <./images/DCRMSignatur
+eShowingFluctuationsinResistance.png>]
+Overfull \hbox (9.18306pt too wide) in paragraph at lines 468--469
+\OT1/cmr/m/n/12 an-a-lyzed for clos-ing and trip-ping. As seen in the fig-ures 
+[]3.3.9[] and []3.3.10[], ab-nor-mal-ity
+ []
+
+<images/EnlargedViewofRPoleDCRM.png, id=1620, 437.38406pt x 396.7322pt>
+File: images/EnlargedViewofRPoleDCRM.png Graphic file (type png)
+
+<use images/EnlargedViewofRPoleDCRM.png>
+Package pdftex.def Info: images/EnlargedViewofRPoleDCRM.png used on input line 
+472.
+(pdftex.def)             Requested size: 416.83289pt x 378.09206pt.
+
+<images/RPoleDCRMinTrippingZone.png, id=1621, 472.01344pt x 416.30531pt>
+File: images/RPoleDCRMinTrippingZone.png Graphic file (type png)
+
+<use images/RPoleDCRMinTrippingZone.png>
+Package pdftex.def Info: images/RPoleDCRMinTrippingZone.png used on input line 
+479.
+(pdftex.def)             Requested size: 327.7783pt x 289.07999pt.
+
+<images/YPoleDCRMinTrippingZone.png, id=1622, 458.46281pt x 414.79968pt>
+File: images/YPoleDCRMinTrippingZone.png Graphic file (type png)
+
+<use images/YPoleDCRMinTrippingZone.png>
+Package pdftex.def Info: images/YPoleDCRMinTrippingZone.png used on input line 
+486.
+(pdftex.def)             Requested size: 319.52266pt x 289.07999pt.
+
+<images/WrongAssemblyofArcingContact.png, id=1623, 469.755pt x 351.56343pt>
+File: images/WrongAssemblyofArcingContact.png Graphic file (type png)
+
+<use images/WrongAssemblyofArcingContact.png>
+Package pdftex.def Info: images/WrongAssemblyofArcingContact.png used on input 
+line 493.
+(pdftex.def)             Requested size: 416.83289pt x 311.95705pt.
+ [67 <./images/EnlargedViewofRPoleDCRM.png>] [68 <./images/RPoleDCRMinTrippingZ
+one.png> <./images/YPoleDCRMinTrippingZone.png>]
+<images/ClosingGraphof245kV.png, id=1639, 449.42906pt x 446.41782pt>
+File: images/ClosingGraphof245kV.png Graphic file (type png)
+
+<use images/ClosingGraphof245kV.png>
+Package pdftex.def Info: images/ClosingGraphof245kV.png used on input line 503.
+
+(pdftex.def)             Requested size: 291.03503pt x 289.07999pt.
+
+<images/CompleteDCRMSignatureof245.png, id=1640, 440.39531pt x 387.69844pt>
+File: images/CompleteDCRMSignatureof245.png Graphic file (type png)
+
+<use images/CompleteDCRMSignatureof245.png>
+Package pdftex.def Info: images/CompleteDCRMSignatureof245.png used on input li
+ne 510.
+(pdftex.def)             Requested size: 328.3805pt x 289.07999pt.
+
+<images/DCRMof245kVSF6.jpg, id=1641, 440.39531pt x 384.6872pt>
+File: images/DCRMof245kVSF6.jpg Graphic file (type jpg)
+
+<use images/DCRMof245kVSF6.jpg>
+Package pdftex.def Info: images/DCRMof245kVSF6.jpg used on input line 517.
+(pdftex.def)             Requested size: 330.96765pt x 289.07999pt.
+
+<images/ContactBouncinginClosingGraph.png, id=1642, 444.91219pt x 449.42906pt>
+File: images/ContactBouncinginClosingGraph.png Graphic file (type png)
+
+<use images/ContactBouncinginClosingGraph.png>
+Package pdftex.def Info: images/ContactBouncinginClosingGraph.png used on input
+ line 524.
+(pdftex.def)             Requested size: 286.18204pt x 289.07999pt.
+ [69 <./images/WrongAssemblyofArcingContact.png>] [70 <./images/ClosingGraphof2
+45kV.png> <./images/CompleteDCRMSignatureof245.png>] [71 <./images/DCRMof245kVS
+F6.jpg> <./images/ContactBouncinginClosingGraph.png>]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no © in font cmr12!
+
+<images/AbnormalVariationsinResistanceinno.png, id=1658, 731.73375pt x 511.9125
+pt>
+File: images/AbnormalVariationsinResistanceinno.png Graphic file (type png)
+ <use images/AbnormalVariationsinResistanceinno.png>
+Package pdftex.def Info: images/AbnormalVariationsinResistanceinno.png used on 
+input line 535.
+(pdftex.def)             Requested size: 416.83289pt x 291.6135pt.
+
+<images/LooseRingConnectingPTFE.png, id=1659, 731.73375pt x 965.10562pt>
+File: images/LooseRingConnectingPTFE.png Graphic file (type png)
+
+<use images/LooseRingConnectingPTFE.png>
+Package pdftex.def Info: images/LooseRingConnectingPTFE.png used on input line 
+542.
+(pdftex.def)             Requested size: 219.17569pt x 289.07999pt.
+ [72
+
+ <./images/AbnormalVariationsinResistanceinno.png>]
+Overfull \hbox (2.47249pt too wide) in paragraph at lines 555--556
+[]\OT1/cmr/m/n/12 Because of high tem-per-a-ture at-tained dur-ing arc-ing, fin
+-ger con-tacts of mov-ing
+ []
+
+
+Overfull \hbox (2.85454pt too wide) in paragraph at lines 557--558
+[]\OT1/cmr/m/n/12 Because of early de-tec-tion of faulty in-ter-nal con-di-tion
+ through DCRM test-ing,
+ []
+
+[73 <./images/LooseRingConnectingPTFE.png>]
+<images/ProblematicDCRMSignature.png, id=1678, 383.93437pt x 295.85532pt>
+File: images/ProblematicDCRMSignature.png Graphic file (type png)
+
+<use images/ProblematicDCRMSignature.png>
+Package pdftex.def Info: images/ProblematicDCRMSignature.png used on input line
+ 564.
+(pdftex.def)             Requested size: 333.46758pt x 256.98123pt.
+
+<images/IncreaseinResistanceinCloseZone.png, id=1679, 389.20406pt x 288.3272pt>
+File: images/IncreaseinResistanceinCloseZone.png Graphic file (type png)
+<use images/IncreaseinResistanceinCloseZone.png>
+Package pdftex.def Info: images/IncreaseinResistanceinCloseZone.png used on inp
+ut line 571.
+(pdftex.def)             Requested size: 333.46758pt x 247.04584pt.
+
+<images/i1Movingcontactassemblyinside.png, id=1680, 161.85469pt x 218.31563pt>
+File: images/i1Movingcontactassemblyinside.png Graphic file (type png)
+
+<use images/i1Movingcontactassemblyinside.png>
+Package pdftex.def Info: images/i1Movingcontactassemblyinside.png used on input
+ line 621.
+(pdftex.def)             Requested size: 125.0508pt x 170.71521pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+ []\OT1/cmr/m/n/10.95 (a) |Mov-ing con-tact 
+ []
+
+<images/i2Stationarycontactassembly.png, id=1681, 143.03438pt x 181.42781pt>
+File: images/i2Stationarycontactassembly.png Graphic file (type png)
+
+<use images/i2Stationarycontactassembly.png>
+Package pdftex.def Info: images/i2Stationarycontactassembly.png used on input l
+ine 627.
+(pdftex.def)             Requested size: 125.05217pt x 170.71933pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+ []\OT1/cmr/m/n/10.95 (b) |Sta-tion-ary con-tact 
+ []
+
+<images/imInside.png, id=1682, 245.41687pt x 366.61969pt>
+File: images/imInside.png Graphic file (type png)
+
+<use images/imInside.png>
+Package pdftex.def Info: images/imInside.png used on input line 633.
+(pdftex.def)             Requested size: 125.0486pt x 170.71693pt.
+
+<images/i3Fixedandmovingcontacts.png, id=1683, 160.34906pt x 166.37157pt>
+File: images/i3Fixedandmovingcontacts.png Graphic file (type png)
+
+<use images/i3Fixedandmovingcontacts.png>
+Package pdftex.def Info: images/i3Fixedandmovingcontacts.png used on input line
+ 639.
+(pdftex.def)             Requested size: 125.05463pt x 142.27199pt.
+
+Underfull \hbox (badness 6032) in paragraph at lines 640--640
+ []\OT1/cmr/m/n/10.95 (c) |Fixed and mov-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+ \OT1/cmr/m/n/10.95 con-tacts in en-gaged 
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 640--640
+ \OT1/cmr/m/n/10.95 con-di-tion af-ter re-moval 
+ []
+
+<images/i4Movingcontactassembly.png, id=1684, 150.5625pt x 131.74219pt>
+File: images/i4Movingcontactassembly.png Graphic file (type png)
+
+<use images/i4Movingcontactassembly.png>
+Package pdftex.def Info: images/i4Movingcontactassembly.png used on input line 
+645.
+(pdftex.def)             Requested size: 125.05643pt x 142.27138pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+ []\OT1/cmr/m/n/10.95 (d) |Mov-ing con-tact 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+ \OT1/cmr/m/n/10.95 as-sem-bly af-ter Teflon 
+ []
+
+<images/i5Fixedcontactassembly.png, id=1685, 116.68594pt x 124.21407pt>
+File: images/i5Fixedcontactassembly.png Graphic file (type png)
+
+<use images/i5Fixedcontactassembly.png>
+Package pdftex.def Info: images/i5Fixedcontactassembly.png used on input line 6
+52.
+(pdftex.def)             Requested size: 125.05745pt x 142.27454pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--653
+ []\OT1/cmr/m/n/10.95 (e) |Fixed con-tact 
+ []
+
+
+<images/j1PufferCylinderSlidingContacts.png, id=1686, 206.27063pt x 241.65282pt
+>
+File: images/j1PufferCylinderSlidingContacts.png Graphic file (type png)
+ <use images/j1PufferCylinderSlidingContacts.png>
+Package pdftex.def Info: images/j1PufferCylinderSlidingContacts.png used on inp
+ut line 666.
+(pdftex.def)             Requested size: 204.2526pt x 199.17798pt.
+
+<images/j2MainMovingContact.png, id=1687, 204.765pt x 213.79875pt>
+File: images/j2MainMovingContact.png Graphic file (type png)
+
+<use images/j2MainMovingContact.png>
+Package pdftex.def Info: images/j2MainMovingContact.png used on input line 672.
+
+(pdftex.def)             Requested size: 204.26456pt x 199.17004pt.
+
+<images/j3MovingArcContactSideofNozzle.png, id=1688, 150.5625pt x 149.05687pt>
+File: images/j3MovingArcContactSideofNozzle.png Graphic file (type png)
+
+<use images/j3MovingArcContactSideofNozzle.png>
+Package pdftex.def Info: images/j3MovingArcContactSideofNozzle.png used on inpu
+t line 679.
+(pdftex.def)             Requested size: 204.27063pt x 170.72719pt.
+
+<images/j4StationaryContactSideofNozzle.png, id=1689, 195.73125pt x 180.675pt>
+File: images/j4StationaryContactSideofNozzle.png Graphic file (type png)
+
+<use images/j4StationaryContactSideofNozzle.png>
+Package pdftex.def Info: images/j4StationaryContactSideofNozzle.png used on inp
+ut line 685.
+(pdftex.def)             Requested size: 204.26053pt x 170.7167pt.
+ [74 <./images/ProblematicDCRMSignature.png> <./images/IncreaseinResistanceinCl
+oseZone.png>] [75 <./images/i1Movingcontactassemblyinside.png> <./images/i2Stat
+ionarycontactassembly.png> <./images/imInside.png> <./images/i3Fixedandmovingco
+ntacts.png> <./images/i4Movingcontactassembly.png> <./images/i5Fixedcontactasse
+mbly.png>] [76 <./images/j1PufferCylinderSlidingContacts.png> <./images/j2MainM
+ovingContact.png> <./images/j3MovingArcContactSideofNozzle.png> <./images/j4Sta
+tionaryContactSideofNozzle.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 695.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 695.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 695.
+
+
+Overfull \hbox (14.031pt too wide) in paragraph at lines 697--698
+\OT1/cmr/m/n/12 Tests were con-ducted on 400 kV and 245 kV SF$[]$ CBs at cir-cu
+it breaker man-u-fac-tur-ing
+ []
+
+
+<images/DCRMSignatureShowingtheParametersusedinAlgorithm.png, id=1704, 377.1590
+6pt x 303.38344pt>
+File: images/DCRMSignatureShowingtheParametersusedinAlgorithm.png Graphic file 
+(type png)
+
+<use images/DCRMSignatureShowingtheParametersusedinAlgorithm.png>
+Package pdftex.def Info: images/DCRMSignatureShowingtheParametersusedinAlgorith
+m.png used on input line 701.
+(pdftex.def)             Requested size: 416.83289pt x 335.29675pt.
+ [77
+
+ <./images/DCRMSignatureShowingtheParametersusedinAlgorithm.png>] [78] [79]
+<images/FlowChartofProposedAlgorithm1.pdf, id=1722, 547.04375pt x 1006.76125pt>
+File: images/FlowChartofProposedAlgorithm1.pdf Graphic file (type pdf)
+<use images/FlowChartofProposedAlgorithm1.pdf>
+Package pdftex.def Info: images/FlowChartofProposedAlgorithm1.pdf used on input
+ line 747.
+(pdftex.def)             Requested size: 416.83435pt x 700.28848pt.
+
+<images/FlowChartofProposedAlgorithm2.pdf, id=1723, 503.8825pt x 926.46124pt>
+File: images/FlowChartofProposedAlgorithm2.pdf Graphic file (type pdf)
+
+<use images/FlowChartofProposedAlgorithm2.pdf>
+Package pdftex.def Info: images/FlowChartofProposedAlgorithm2.pdf used on input
+ line 751.
+(pdftex.def)             Requested size: 416.83073pt x 700.30096pt.
+ [80
+
+] [81 <./images/FlowChartofProposedAlgorithm1.pdf>] [82 <./images/FlowChartofPr
+oposedAlgorithm2.pdf>])
+[83
+
+]
+Chapter 4.
+(chapters/PerformanceAnalysis.tex [84
+
+] [85]
+<images/1trvcb2p2411.png, id=1772, 1191.45125pt x 545.03625pt>
+File: images/1trvcb2p2411.png Graphic file (type png)
+
+<use images/1trvcb2p2411.png>
+Package pdftex.def Info: images/1trvcb2p2411.png used on input line 49.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/2trvawithstdcbp2412.png, id=1773, 1191.45125pt x 545.03625pt>
+File: images/2trvawithstdcbp2412.png Graphic file (type png)
+
+<use images/2trvawithstdcbp2412.png>
+Package pdftex.def Info: images/2trvawithstdcbp2412.png used on input line 58.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/3trvawithstdenlargedcbp2413.png, id=1774, 893.58844pt x 408.77719pt>
+File: images/3trvawithstdenlargedcbp2413.png Graphic file (type png)
+
+<use images/3trvawithstdenlargedcbp2413.png>
+Package pdftex.def Info: images/3trvawithstdenlargedcbp2413.png used on input l
+ine 67.
+(pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
+
+<images/4completetrvcb1p1414.png, id=1775, 1191.45125pt x 545.03625pt>
+File: images/4completetrvcb1p1414.png Graphic file (type png)
+
+<use images/4completetrvcb1p1414.png>
+Package pdftex.def Info: images/4completetrvcb1p1414.png used on input line 76.
+
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/5trvcb1p1415.png, id=1776, 1191.45125pt x 545.03625pt>
+File: images/5trvcb1p1415.png Graphic file (type png)
+
+<use images/5trvcb1p1415.png>
+Package pdftex.def Info: images/5trvcb1p1415.png used on input line 85.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/6trvawithstdcbp1416.png, id=1777, 1191.45125pt x 545.03625pt>
+File: images/6trvawithstdcbp1416.png Graphic file (type png)
+
+<use images/6trvawithstdcbp1416.png>
+Package pdftex.def Info: images/6trvawithstdcbp1416.png used on input line 94.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/7trvawithstdenlargedcbp1417.png, id=1778, 893.58844pt x 408.77719pt>
+File: images/7trvawithstdenlargedcbp1417.png Graphic file (type png)
+
+<use images/7trvawithstdenlargedcbp1417.png>
+Package pdftex.def Info: images/7trvawithstdenlargedcbp1417.png used on input l
+ine 103.
+(pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
+
+<images/8slfcp418.png, id=1779, 893.58844pt x 408.77719pt>
+File: images/8slfcp418.png Graphic file (type png)
+
+<use images/8slfcp418.png>
+Package pdftex.def Info: images/8slfcp418.png used on input line 112.
+(pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
+
+<images/9slfd419.png, id=1780, 893.58844pt x 408.77719pt>
+File: images/9slfd419.png Graphic file (type png)
+
+<use images/9slfd419.png>
+Package pdftex.def Info: images/9slfd419.png used on input line 121.
+(pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
+
+<images/91slfdcpcombine4110.png, id=1781, 893.58844pt x 408.77719pt>
+File: images/91slfdcpcombine4110.png Graphic file (type png)
+
+<use images/91slfdcpcombine4110.png>
+Package pdftex.def Info: images/91slfdcpcombine4110.png used on input line 130.
+
+(pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
+
+<images/41112km.png, id=1782, 1191.45125pt x 545.03625pt>
+File: images/41112km.png Graphic file (type png)
+
+<use images/41112km.png>
+Package pdftex.def Info: images/41112km.png used on input line 138.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/41222km.png, id=1783, 1191.45125pt x 545.03625pt>
+File: images/41222km.png Graphic file (type png)
+
+<use images/41222km.png>
+Package pdftex.def Info: images/41222km.png used on input line 145.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/41332km.png, id=1784, 1191.45125pt x 545.03625pt>
+File: images/41332km.png Graphic file (type png)
+
+<use images/41332km.png>
+Package pdftex.def Info: images/41332km.png used on input line 152.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/41452km.png, id=1785, 1191.45125pt x 545.03625pt>
+File: images/41452km.png Graphic file (type png)
+
+<use images/41452km.png>
+Package pdftex.def Info: images/41452km.png used on input line 159.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/41562km.png, id=1786, 1191.45125pt x 545.03625pt>
+File: images/41562km.png Graphic file (type png)
+
+<use images/41562km.png>
+Package pdftex.def Info: images/41562km.png used on input line 166.
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/92transformerp44111.png, id=1787, 1191.45125pt x 545.03625pt>
+File: images/92transformerp44111.png Graphic file (type png)
+
+<use images/92transformerp44111.png>
+Package pdftex.def Info: images/92transformerp44111.png used on input line 175.
+
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+
+<images/93transformerp54112.png, id=1788, 1191.45125pt x 545.03625pt>
+File: images/93transformerp54112.png Graphic file (type png)
+
+<use images/93transformerp54112.png>
+Package pdftex.def Info: images/93transformerp54112.png used on input line 184.
+
+(pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
+ [86] [87] [88 <./images/1trvcb2p2411.png>] [89 <./images/2trvawithstdcbp2412.p
+ng>] [90 <./images/3trvawithstdenlargedcbp2413.png>] [91 <./images/4completetrv
+cb1p1414.png>] [92 <./images/5trvcb1p1415.png>] [93 <./images/6trvawithstdcbp14
+16.png>] [94 <./images/7trvawithstdenlargedcbp1417.png>] [95 <./images/8slfcp41
+8.png>] [96 <./images/9slfd419.png>]
+[97 <./images/91slfdcpcombine4110.png>] [98 <./images/41112km.png>] [99 <./imag
+es/41222km.png>] [100 <./images/41332km.png>] [101 <./images/41452km.png>]
+[102 <./images/41562km.png>] [103 <./images/92transformerp44111.png>] [104 <./i
+mages/93transformerp54112.png>]
+Overfull \hbox (6.55438pt too wide) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 con-stant pa-ram-e-ter mode as well as fre-quency de-pen-dent m
+ode of trans-mis-sion
+ []
+
+
+<images/VariationofRRRVwithFaultDistance.png, id=1897, 362.3136pt x 217.7736pt>
+File: images/VariationofRRRVwithFaultDistance.png Graphic file (type png)
+<use images/VariationofRRRVwithFaultDistance.png>
+Package pdftex.def Info: images/VariationofRRRVwithFaultDistance.png used on in
+put line 207.
+(pdftex.def)             Requested size: 416.83289pt x 250.5407pt.
+ [105
+
+]
+Overfull \hbox (0.51129pt too wide) in paragraph at lines 246--246
+[]|[]| 
+ []
+
+
+Overfull \hbox (2.27542pt too wide) in paragraph at lines 247--247
+[]|\OT1/cmr/m/n/10.95 No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]|\OT1/cmr/m/n/10.95 of TRV
+ []
+
+
+Overfull \hbox (4.3918pt too wide) in paragraph at lines 247--247
+[]|\OT1/cmr/m/n/10.95 Simulated| 
+ []
+
+
+Overfull \hbox (2.30003pt too wide) in paragraph at lines 247--247
+[]|\OT1/cmr/m/n/10.95 Analytical| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]|\OT1/cmr/m/n/10.95 (a) Mul-ti-ple lines
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--251
+[]|\OT1/cmr/m/n/10.95 (a)Exponential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]|\OT1/cmr/m/n/10.95 (b) Os-cil-la-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]|\OT1/cmr/m/n/10.95 (a)Constant pa-ram-e-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+[]|\OT1/cmr/m/n/10.95 Saw tooth
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 256--256
+[]|\OT1/cmr/m/n/10.95 (b)Frequency de-pen-dent
+ []
+
+
+Overfull \hbox (15.7033pt too wide) in paragraph at lines 244--258
+ [][] 
+ []
+
+[106 <./images/VariationofRRRVwithFaultDistance.png>]
+<images/k1RelativelyNewFixed.png, id=1919, 162.6075pt x 264.23718pt>
+File: images/k1RelativelyNewFixed.png Graphic file (type png)
+
+<use images/k1RelativelyNewFixed.png>
+Package pdftex.def Info: images/k1RelativelyNewFixed.png used on input line 270
+.
+(pdftex.def)             Requested size: 125.05432pt x 227.62257pt.
+
+<images/k2NewMovingContact.png, id=1920, 126.4725pt x 253.69781pt>
+File: images/k2NewMovingContact.png Graphic file (type png)
+
+<use images/k2NewMovingContact.png>
+Package pdftex.def Info: images/k2NewMovingContact.png used on input line 276.
+(pdftex.def)             Requested size: 125.05376pt x 227.62912pt.
+
+<images/k3SlightlyWornMoving.png, id=1921, 117.43875pt x 253.69781pt>
+File: images/k3SlightlyWornMoving.png Graphic file (type png)
+
+<use images/k3SlightlyWornMoving.png>
+Package pdftex.def Info: images/k3SlightlyWornMoving.png used on input line 282
+.
+(pdftex.def)             Requested size: 125.05072pt x 227.62912pt.
+
+<images/k4WornMovingContact.png, id=1922, 132.495pt x 293.59688pt>
+File: images/k4WornMovingContact.png Graphic file (type png)
+
+<use images/k4WornMovingContact.png>
+Package pdftex.def Info: images/k4WornMovingContact.png used on input line 289.
+
+(pdftex.def)             Requested size: 125.05275pt x 227.62033pt.
+
+<images/k5SeriouslyWornMovingContact.png, id=1923, 135.50626pt x 292.84406pt>
+File: images/k5SeriouslyWornMovingContact.png Graphic file (type png)
+
+<use images/k5SeriouslyWornMovingContact.png>
+Package pdftex.def Info: images/k5SeriouslyWornMovingContact.png used on input 
+line 295.
+(pdftex.def)             Requested size: 125.05597pt x 227.631pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+ []\OT1/cmr/m/n/10.95 (e) |Se-ri-ously Worn 
+ []
+
+<images/DCRMSignatureintheTripPortion.png, id=1926, 355.3275pt x 147.55125pt>
+File: images/DCRMSignatureintheTripPortion.png Graphic file (type png)
+
+<use images/DCRMSignatureintheTripPortion.png>
+Package pdftex.def Info: images/DCRMSignatureintheTripPortion.png used on input
+ line 307.
+(pdftex.def)             Requested size: 416.83289pt x 173.09804pt.
+ [107] [108 <./images/k1RelativelyNewFixed.png> <./images/k2NewMovingContact.pn
+g> <./images/k3SlightlyWornMoving.png> <./images/k4WornMovingContact.png> <./im
+ages/k5SeriouslyWornMovingContact.png>] [109 <./images/DCRMSignatureintheTripPo
+rtion.png>]
+Overfull \hbox (1.24956pt too wide) in paragraph at lines 340--348
+ [] 
+ []
+
+<images/l1SignatureatCommissioning.png, id=1954, 269.50688pt x 115.18031pt>
+File: images/l1SignatureatCommissioning.png Graphic file (type png)
+
+<use images/l1SignatureatCommissioning.png>
+Package pdftex.def Info: images/l1SignatureatCommissioning.png used on input li
+ne 357.
+(pdftex.def)             Requested size: 227.62614pt x 142.27374pt.
+
+<images/l2Signatureon482011.png, id=1955, 270.25969pt x 131.74219pt>
+File: images/l2Signatureon482011.png Graphic file (type png)
+
+<use images/l2Signatureon482011.png>
+Package pdftex.def Info: images/l2Signatureon482011.png used on input line 364.
+
+(pdftex.def)             Requested size: 227.6269pt x 142.27138pt.
+
+<images/l3Signatureon2672012.png, id=1956, 219.82124pt x 121.95563pt>
+File: images/l3Signatureon2672012.png Graphic file (type png)
+
+<use images/l3Signatureon2672012.png>
+Package pdftex.def Info: images/l3Signatureon2672012.png used on input line 371
+.
+(pdftex.def)             Requested size: 227.62926pt x 142.26506pt.
+
+<images/l4Signatureon15122014.png, id=1957, 225.84375pt x 155.07938pt>
+File: images/l4Signatureon15122014.png Graphic file (type png)
+
+<use images/l4Signatureon15122014.png>
+Package pdftex.def Info: images/l4Signatureon15122014.png used on input line 37
+8.
+(pdftex.def)             Requested size: 227.63515pt x 142.263pt.
+
+
+LaTeX Warning: Float too large for page by 8.91628pt on input line 385.
+
+<images/OutputoftheProgram.png, id=1958, 508.90125pt x 258.21469pt>
+File: images/OutputoftheProgram.png Graphic file (type png)
+
+<use images/OutputoftheProgram.png>
+Package pdftex.def Info: images/OutputoftheProgram.png used on input line 389.
+(pdftex.def)             Requested size: 416.83289pt x 211.50888pt.
+
+<images/m1SignatureatCommissioning.png, id=1959, 165.61874pt x 62.48344pt>
+File: images/m1SignatureatCommissioning.png Graphic file (type png)
+
+<use images/m1SignatureatCommissioning.png>
+Package pdftex.def Info: images/m1SignatureatCommissioning.png used on input li
+ne 398.
+(pdftex.def)             Requested size: 227.63422pt x 142.29684pt.
+
+<images/m2Signatureon482011.png, id=1960, 212.29312pt x 103.13531pt>
+File: images/m2Signatureon482011.png Graphic file (type png)
+
+<use images/m2Signatureon482011.png>
+Package pdftex.def Info: images/m2Signatureon482011.png used on input line 405.
+
+(pdftex.def)             Requested size: 227.63405pt x 142.27649pt.
+
+<images/m3Signatureon2672012.png, id=1961, 173.89969pt x 96.36pt>
+File: images/m3Signatureon2672012.png Graphic file (type png)
+
+<use images/m3Signatureon2672012.png>
+Package pdftex.def Info: images/m3Signatureon2672012.png used on input line 412
+.
+(pdftex.def)             Requested size: 227.63245pt x 142.26353pt.
+
+<images/m4Signatureon15122014.png, id=1962, 173.89969pt x 121.20282pt>
+File: images/m4Signatureon15122014.png Graphic file (type png)
+
+<use images/m4Signatureon15122014.png>
+Package pdftex.def Info: images/m4Signatureon15122014.png used on input line 41
+9.
+(pdftex.def)             Requested size: 227.63245pt x 142.28017pt.
+
+
+LaTeX Warning: Float too large for page by 8.96013pt on input line 426.
+
+[110
+
+] [111 <./images/l1SignatureatCommissioning.png> <./images/l2Signatureon482011.
+png> <./images/l3Signatureon2672012.png> <./images/l4Signatureon15122014.png>] 
+[112 <./images/OutputoftheProgram.png>] [113 <./images/m1SignatureatCommissioni
+ng.png> <./images/m2Signatureon482011.png> <./images/m3Signatureon2672012.png> 
+<./images/m4Signatureon15122014.png>]) [114
+
+]
+Chapter 5.
+(chapters/Conclusion.tex
+Overfull \hbox (4.75172pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/m/n/12 The TRV across breaker used for mul-ti-ple line switch-ing is
+ within the stan-dard
+ []
+
+
+Overfull \hbox (2.95998pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/12 Arc in-ter-rup-tion stud-ies for a given model show the suc-c
+ess-ful arc in-ter-rup-tion
+ []
+
+[115
+
+]
+Overfull \hbox (11.63638pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/12 DCRM is very use-ful to the man-u-fac-tur-ers as the hu-man e
+r-ror or man-u-fac-tur-ing
+ []
+
+[116] [117
+
+]
+Overfull \hbox (9.45584pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/m/n/12 Short cir-cuit ca-pa-bil-ity of CB un-der dif-fer-ent fault c
+on-di-tions and its suit-abil-ity
+ []
+
+[118
+
+]) (chapters/Back.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 5.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 5.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) (filename.java
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 1.
+
+[119
+
+
+] [120] [121]) [122]
+Overfull \hbox (8.46133pt too wide) in paragraph at lines 13--14
+[]\OT1/cmr/m/n/12 \Dynamic Con-tact Re-sis-tance Mea-sure-ment on High Volt-age
+ Cir-cuit Breaker",
+ []
+
+[123
+
+] (main.bbl
+Underfull \hbox (badness 1552) in paragraph at lines 65--69
+[]\OT1/cmr/m/n/12 A. A. Razi-Kazemi \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/12 , ``
+Pri-or-ity as-sess-ment of on-line mon-i-tor-ing
+ []
+
+[124
+
+
+]
+Underfull \hbox (badness 1552) in paragraph at lines 76--80
+[]\OT1/cmr/m/n/12 A. A. Razi-Kazemi \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/12 , ``
+Pri-or-ity as-sess-ment of on-line mon-i-tor-ing
+ []
+
+[125] [126]
+Underfull \hbox (badness 2781) in paragraph at lines 181--184
+[]\OT1/cmr/m/n/12 J. Mar-tinez, J. Mah-sered-jian, and B. Khod-abakhchian, ``Pa
+-ram-e-ter
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 211--215
+\OT1/cmr/m/n/12 break-ers with dif-fer-ent arc-extinguishing sys-tems at short-
+line fault
+ []
+
+[127]
+Underfull \hbox (badness 2126) in paragraph at lines 239--243
+[]\OT1/cmr/m/n/12 F. Karetta and M. Lind-mayer, ``Sim-u-la-tion of the gas-dy-n
+amic and
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 245--248
+\OT1/cmr/m/n/12 un-der de-layed current-zero con-di-tions,'' \OT1/cmr/m/it/12 I
+EEE Trans-ac-tions on Power
+ []
+
+[128]
+Underfull \hbox (badness 1810) in paragraph at lines 298--300
+[]\OT1/cmr/m/n/12 IEEE Stan-dard C37.015, \OT1/cmr/m/it/12 IEEE Ap-pli-ca-tion 
+Guide for Shunt Re-ac-tor
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 302--305
+\OT1/cmr/m/it/12 Cur-rent Switch-ing for AC High Volt-age Cir-cuit Break-ers Ra
+ted on a
+ []
+
+[129]
+Underfull \hbox (badness 4254) in paragraph at lines 336--340
+\OT1/cmr/m/n/12 main-te-nance of cir-cuit break-ers,'' in \OT1/cmr/m/it/12 Tran
+s-mis-sion and Dis-tri-bu-tion
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 342--345
+\OT1/cmr/m/n/12 condition-based data and bayesian ap-proach,'' \OT1/cmr/m/it/12
+ Elec-tric Power Sys-tems
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 358--362
+\OT1/cmr/m/n/12 for prob-a-bilis-tic con-di-tion as-sess-ment of SF$[]$ cir-cui
+t break-ers,'' \OT1/cmr/m/it/12 IEEE
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 364--368
+\OT1/cmr/m/n/12 re-sis-tance of HV cir-cuit break-ers,'' in \OT1/cmr/m/it/12 Tr
+ans-mis-sion and Dis-tri-bu-tion
+ []
+
+[130] [131]) [132])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 3D48A47FEF80D3C2325ABF42B48B4229;6043.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
+ ) 
+Here is how much of TeX's memory you used:
+ 23184 strings out of 493328
+ 438094 string characters out of 3139116
+ 659440 words of memory out of 3000000
+ 25662 multiletter control sequences out of 15000+200000
+ 551673 words of font info for 104 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,17n,43p,10378b,2142s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\Priyanka\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on main.pdf (149 pages, 11280859 bytes).
+PDF statistics:
+ 2484 PDF objects out of 2487 (max. 8388607)
+ 655 named destinations out of 1000 (max. 500000)
+ 1172 words of extra memory for PDF output out of 10000 (max. 10000000)
