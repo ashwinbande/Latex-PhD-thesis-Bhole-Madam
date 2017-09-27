@@ -1,0 +1,23 @@
+%-----------------------Annexure A------------------------------------------------------
+
+\chapter*{Annexure A}
+\addcontentsline{toc}{chapter}{\numberline{}Annexure A}
+\lstinputlisting{filename.java}
+\clearpage
+
+%-----------------------PUBLICATIONS---------------------------------------------------------
+\section*{Publications}
+\addcontentsline{toc}{chapter}{\numberline{}Publications}
+\begin{enumerate}
+\item \textquotedblleft An Overview of Dynamic Contact Resistance Measurement of HV Circuit Breakers\textquotedblright, J. Inst. Eng. (India) B, Vol. 97, No. 2, Jan. 2015, pp. 219-226.
+\item \textquotedblleft Dynamic Contact Resistance Measurement on High Voltage Circuit Breaker\textquotedblright, International Journal of Engineering Research and Technology (IJERT), Vol. 3, Issue 1, January 2014, pp. 1292-1296.
+\item \textquotedblleft Black ~Box ~Arc Modeling of High ~Voltage Circuit Breaker Using Matlab~/ ~Simulink\textquotedblright, International Journal of Electrical Engineering and Technology (IJEET), Vol. 3, Issue 1, January- June 2012, pp. 69-78. 
+\end{enumerate}
+\clearpage
+
+%-------------------------References--------------------------------------------------------
+\bibliographystyle{IEEEtran-mod}
+\addcontentsline{toc}{chapter}{\numberline{}References}
+\bibliography{References}
+\clearpage
+

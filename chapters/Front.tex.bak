@@ -1,0 +1,193 @@
+%-----------------------FRONT PAGE------------------------------------------------
+\begin{center}
+~\\
+\textit{\small The Thesis Entitled}\\
+\vspace{1cm}
+\textcolor{ured}{\textbf{\large EFFECT OF DYNAMIC PROPERTIES OF CIRCUIT BREAKER ON SHORT CIRCUIT CAPACITY}}\\
+\vspace{0.5cm}
+\includegraphics[width=.30\textwidth]{universityLOGOf}\\
+\vspace{0.6cm}
+\textit{\normalsize Submitted to}\\
+\vspace{0.5cm}
+\textcolor{ublue}{\textbf{\large Dr. BABASAHEB AMBEDKAR MARATHWADA UNVIERSITY, AURANGABAD}}\\
+\vspace{1cm}
+\textit{\normalsize In partial fulfilment of the Requirement for the Award of the Degree of}\\
+\textbf{\large DOCTOR OF PHILOSOPHY}\\
+\textit{\normalsize in}\\
+\textbf{\normalsize ELECTRICAL ENGINEERING}\\
+\textbf{\textit{\small By}}\\
+\textcolor{ured}{\textbf{\normalsize Mrs. Anita Arun Bhole}}\\
+\textit{\normalsize Under the Guidance of}\\
+\textcolor{ured}{\textbf{\large Dr. W. Z. Gandhare}}\\
+\vspace{1cm}
+\textbf{\normalsize FACULTY OF ELECTRICAL ENGINEERING}\\
+\textbf{\large Dr. BABASAHEB AMBEDKAR MARATHWADA UNVIERSITY, AURANGABAD-431 004 (MS), INDIA\\
+\colorbox{Yellow}{SEPTEMBER - 2017}}
+\end{center}
+\clearpage
+%-------------------------SECOND PAGE------------------------------------------------------
+~\\
+\textcolor{ured}{\textbf{\textit{\large EFFECT OF DYNAMIC PROPERTIES OF CIRCUIT BREAKER ON SHORT CIRCUIT CAPACITY}}}
+\vspace{2cm}
+
+\textcolor{ublue}{\textbf{\large Ph. D. Thesis}}\\
+\textit{\normalsize in Electrical Engineering}\\
+\vspace{2.5cm}
+
+
+\textit{\small Author}\\
+\textcolor{ured}{\textbf{\large Mrs. Anita A. Bhole}}\\
+\small Research Scholar
+\vspace{3cm}
+
+\textit{\small Under the Guidance of}\\
+\textcolor{ured}{\textbf{\large Dr. W. Z. Gandhare}}\\
+\vspace{0.5cm}
+
+\small Director, G. S. Moze College of Engineering, Pune\\
+\small Research Guide in Electrical Engineering\\
+\small Dr. Babasaheb Ambedkar Marathwada University\\
+\small Aurangabad - 431 004 (MS) INDIA
+\vspace{2cm}
+
+\colorbox{Yellow}{\textbf{\textit{\large SEPTEMBER 2017}}}
+\clearpage
+%-----------------------INSIDE COVER PAGE -----------------------------------------------------
+\begin{center}
+~\\
+\textbf{\large EFFECT OF DYNAMIC PROPERTIES OF CIRCUIT BREAKER ON SHORT CIRCUIT CAPACITY}\\
+\vspace{0.5cm}
+\includegraphics[width=.3\textwidth]{universityLOGO}\\
+\vspace{0.8cm}
+\textit{\normalsize Submitted to}\\
+\textbf{\large Dr. BABASAHEB AMBEDKAR MARATHWADA UNVIERSITY, AURANGABAD}\\
+\vspace{1cm}
+\textit{\normalsize for the Degree of}\\
+\textbf{\normalsize Doctor of Philosophy}\\
+\textit{\normalsize in} \\
+\textbf{\normalsize Electrical Engineering}\\
+\textbf{\small By}\\
+\textbf{\large Mrs. Anita Arun Bhole}\\
+\textit{\normalsize Under the Guidance of}\\
+\textbf{\large Dr. W. Z. Gandhare}\\
+\vspace{1cm}
+\textbf{\large FACULTY OF ELECTRICAL ENGINEERING}\\
+\textbf{\large Dr. BABASAHEB AMBEDKAR MARATHWADA UNVIERSITY, AURANGABAD-431 004 (MS), INDIA\\
+\colorbox{Yellow}{SEPTEMBER - 2017}}
+\end{center}
+
+\clearpage
+
+%-----------------------CERTIFICATE-------------------------------------------------------------
+\addcontentsline{toc}{chapter}{\numberline{}Certificate}
+\begin{center}
+\large \textbf{Dr. Babasaheb Ambedkar Marathwada University\\
+Aurangabad (M. S.) - 431 004}\\
+\vspace{0.5cm}
+\includegraphics[width=.3\textwidth]{universityLOGO}\\
+\vspace{0.5cm}
+
+
+\textbf{\large CERTIFICATE}\\
+\end{center}
+\normalsize This is to certify that the thesis entitled \textbf{\textquotedblleft Effect of Dynamic Properties of Circuit Breaker on Short Circuit Capacity\textquotedblright}, which is being submitted herewith for the award of the \textbf{\textquoteleft Degree of Doctor of Philosophy\textquoteright ~in \textquoteleft Electrical Engineering\textquoteright} of~ \textbf{Dr. Babasaheb Ambedkar Marathwada University Aurangabad}. This is the result of the Original Research Work and Contribution by \textbf{\textquoteleft Mrs. Anita Arun Bhole\textquoteright} under my supervision and guidance at Government College of Engineering, Aurangabad. The work embodied in this thesis has not formed earlier for the basis of the award of any degree or compatible certificate or similar title of this for any other diploma/examining body or university to the best of knowledge and belief. 
+
+\vspace{0.5cm}
+Place: \textbf{Aurangabad}\\
+Date~: \textbf{~~~/~~~/}\\
+
+\hspace{2.2in}
+\begin{minipage}{4in}
+\vspace{0.5in}
+\begin{center}
+\textbf{Dr. W. Z. Gandhare}\\
+Research Guide\\
+Electrical Engineering\\
+Faculty of Engineering \& Technology\\
+Dr. Babasaheb Ambedkar Marathwada\\University, Aurangabad\\
+\end{center}
+\end{minipage}
+
+\clearpage
+%-----------------------ABSTRACT-------------------------------------------------------------
+\chapter*{ABSTRACT}
+\addcontentsline{toc}{chapter}{\numberline{}Abstract}
+\input{chapters/Abstract}
+\clearpage
+
+%-----------------------DECLARATION-------------------------------------------------------------
+\begin{center}
+\large \textbf{Dr. Babasaheb Ambedkar Marathwada University\\
+Aurangabad (M. S.) - 431 004}\\
+\vspace{0.5cm}
+\includegraphics[width=.3\textwidth]{universityLOGO}\\
+\vspace{0.5cm}
+\addcontentsline{toc}{chapter}{\numberline{}Declaration}
+
+\textbf{\large DECLARATION}\\
+\end{center}
+
+\normalsize I hereby declare that the work presented in the form of thesis entitled \textbf{\textquotedblleft EFFECT OF DYNAMIC PROPERTIES OF CIRCUIT BREAKER ON SHORT CIRCUIT CAPACITY\textquotedblright} is an original research work carried out by me under the guidance of Dr. W. Z. Gandhare, Director, G. S. Moze College of Engineering Pune, and has not been previously submitted to this or any other University for the award of degree, diploma, associate-ship, or any other similar title.
+
+\vspace{0.5cm}
+Place: \textbf{Aurangabad}\\
+Date~: \textbf{~~~/~~~/}\\
+
+\hspace{2.2in}
+\begin{minipage}{4in}
+\vspace{0.5in}
+\begin{center}
+\textbf{Mrs. Anita Arun Bhole}\\
+Research Scholar
+\end{center}
+
+\end{minipage}
+\clearpage
+%%-----------------------EVALUATION CERTIFICATE-----------------------------------------------
+%\begin{center}
+%\large \textbf{Dr. Babasaheb Ambedkar Marathwada University\\
+%Aurangabad (M. S.) - 431 004}\\
+%\vspace{0.5cm}
+%\includegraphics[width=.3\textwidth]{universityLOGO}\\
+%\vspace{0.5cm}
+%
+%\textbf{\large EVALUATION CERTIFICATE}\\
+%\end{center}
+%
+%
+%\normalsize \textbf{Mrs. Anita A. Bhole} has done the appropriate work for the fulfilment for the award of \textquotedblleft Degree in Philosophy\textquotedblright in \textquoteleft Electrical Engineering\textquoteright ~of Dr. Babasaheb Ambedkar Marathwada University Aurangabad (M.S.).
+%
+%\hspace{1cm}
+%\begin{minipage}{4in}
+%\vspace{0.5in}
+%1.~Chairman:\\
+%\\
+%2.~External Referee:\\
+%\\
+%3.~Guide:\\
+%\\
+%Place: \textbf{Aurangabad}\\
+%Date~: \textbf{~~~/~~~/}\\
+%\end{minipage}
+
+%\clearpage
+%-----------------------ACKNOWLEDGEMENT------------------------------------------------------
+
+\begin{center}
+\large \textbf{ACKNOWLEDGEMENT}
+\addcontentsline{toc}{chapter}{\numberline{}Acknowledgement}
+\end{center}
+
+\setlength{\parskip}{1em}
+\justify \normalsize I take this opportunity to thank my guide Dr. W. Z. Gandhare, Director, G.S.Moze College of Engineering, Pune for his valuable guidance and constant motivation during the research work. I wish to thank Internal Monitoring Committee Members Dr. A. S. Bhalchandra, Dr. M. G. Shaikh and Dr. A. G. Thosar, Head of Electrical Engineering Department, Government College of Engineering, Aurangabad for their valuable support, suggestions and extending all the facilities for completion of this research work. I am thankful to Dr. P.B. Murnal for permitting to carry out the research work. Many thanks to my colleagues at the institute for their help and support.
+
+I owe special thanks to the authority of Crompton Greaves, Nashik for permitting to conduct the experimentation and measurements. Also I greatly acknowledge the authorities of PGCIL and MSETCL for the technical support and permission to visit the substation and carry out the testing.
+
+Last but not least, I express my deepest love to my family with all my heart for patience and unfailing support through the research work.
+
+\setlength{\parskip}{0em}
+\vspace{2cm}
+\begin{flushright}
+\textbf{Anita Arun Bhole}
+\end{flushright}
+\clearpage

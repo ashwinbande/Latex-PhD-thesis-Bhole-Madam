@@ -1,0 +1,10 @@
+headings_flag 1
+ 
+heading_prefix "\n\\small%
+\\noindent\\textbf{"heading_suffix "}\\par\\nopagebreak\n"
+ 
+item_0 "\n \\item \\scshape \\footnotesize "
+ 
+delim_0 " \\dotfill "
+delim_1 " \\dotfill "
+delim_2 " \\dotfill "
