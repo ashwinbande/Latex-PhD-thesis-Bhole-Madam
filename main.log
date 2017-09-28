@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.7)  27 SEP 2017 21:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.7)  28 SEP 2017 11:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -1082,78 +1082,53 @@ l.79 \clearpage
 File: images/universityLOGO.png Graphic file (type png)
 
 <use images/universityLOGO.png>
-Package pdftex.def Info: images/universityLOGO.png used on input line 87.
+Package pdftex.def Info: images/universityLOGO.png used on input line 88.
 (pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
 
-Overfull \hbox (0.51642pt too wide) in paragraph at lines 93--94
+Overfull \hbox (0.51642pt too wide) in paragraph at lines 94--95
 \OT1/cmr/m/n/12 by \OT1/cmr/bx/n/12 `Mrs. Anita Arun Bhole' \OT1/cmr/m/n/12 un-
 der my su-per-vi-sion and guid-ance at Gov-ern-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
  []
 
 
-Overfull \hbox (33.85196pt too wide) in paragraph at lines 99--110
+Overfull \hbox (33.85196pt too wide) in paragraph at lines 100--111
 []  $[]$ 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.111 \clearpage
-                 [4
+[1
 
-] (chapters/Abstract.tex)pdfTeX warning (ext4): destination with the same ident
-ifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \clearpage
-                 [5
+] (chapters/Abstract.tex) [2
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.116 \clearpage
-                 [6]
+] [3]
 File: images/universityLOGO.png Graphic file (type png)
  <use images/universityLOGO.png>
-Package pdftex.def Info: images/universityLOGO.png used on input line 123.
+Package pdftex.def Info: images/universityLOGO.png used on input line 124.
 (pdftex.def)             Requested size: 125.05113pt x 134.28552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
  []
 
 
-Overfull \hbox (33.85196pt too wide) in paragraph at lines 136--145
+Overfull \hbox (33.85196pt too wide) in paragraph at lines 137--146
 []  $[]$ 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.145 \clearpage
-                 [7
+[4
 
 ]
-Overfull \hbox (1.6624pt too wide) in paragraph at lines 182--183
+Overfull \hbox (1.6624pt too wide) in paragraph at lines 183--184
 \OT1/cmr/m/n/12 dur-ing the re-search work. I wish to thank In-ter-nal Mon-i-to
 r-ing Com-mit-tee Mem-bers
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.193 \clearpage
-                 [8
+[5
 
 ])
 *geometry* verbose mode - [ newgeometry ] result:
@@ -1188,30 +1163,15 @@ l.193 \clearpage
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (main.tocpdfTeX warning (ext4): destination with the same identifier (name{pag
-e.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.24 ...al arc models (PAM)}{20}{subsection.2.4.1}
-                                                   [9
+ (main.toc [6
 
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.56 ...terminal fault}{49}{subsubsection.3.2.1.1}
-                                                   [10])
+] [7])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.181 \restoregeometry
-                       [11] (main.lof
+ [8] (main.lof
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\hbox' on input line 2.
@@ -1230,27 +1190,27 @@ Overfull \hbox (4.59065pt too wide) in paragraph at lines 26--26
 with-out Switch-ing 
  []
 
-[1
+[9
 
 
 
-] [2]
+] [10]
 Overfull \hbox (16.73935pt too wide) in paragraph at lines 60--60
  [][] [][]\OT1/cmr/m/n/12 Standard TRV En-ve-lope and Phase A TRV for Mul-ti-pl
 e Line Switch-ing 
  []
 
-[3])
+[11])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [4] (main.lot)
+ [12] (main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- (main.nls [5
+ (main.nls [13
 
-]) [6
+]) [14
 
 ] (chapters/nomenclature.tex)
 Chapter 1.
@@ -1292,14 +1252,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] <images/ApplicationofCBs.png, id=865, 752.8125pt x 431.36156pt>
+[2] <images/ApplicationofCBs.png, id=877, 752.8125pt x 431.36156pt>
 File: images/ApplicationofCBs.png Graphic file (type png)
 
 <use images/ApplicationofCBs.png>
 Package pdftex.def Info: images/ApplicationofCBs.png used on input line 40.
 (pdftex.def)             Requested size: 416.83289pt x 238.84901pt.
 
-<images/MafRateper.png, id=870, 746.79pt x 501.37312pt>
+<images/MafRateper.png, id=882, 746.79pt x 501.37312pt>
 File: images/MafRateper.png Graphic file (type png)
 
 <use images/MafRateper.png>
@@ -1340,7 +1300,7 @@ Overfull \hbox (18.25206pt too wide) in paragraph at lines 57--92
 [] 
  []
 
-<images/ClassificationofCBs.pdf, id=885, 1527.7075pt x 693.59125pt>
+<images/ClassificationofCBs.pdf, id=897, 1527.7075pt x 693.59125pt>
 File: images/ClassificationofCBs.pdf Graphic file (type pdf)
 
 <use images/ClassificationofCBs.pdf>
@@ -1351,7 +1311,7 @@ Package pdftex.def Info: images/ClassificationofCBs.pdf used on input line 99.
 ] [8
 
 ]
-<images/ThemeoftheResearchWork.pdf, id=1006, 935.495pt x 829.0975pt>
+<images/ThemeoftheResearchWork.pdf, id=1018, 935.495pt x 829.0975pt>
 File: images/ThemeoftheResearchWork.pdf Graphic file (type pdf)
 
 <use images/ThemeoftheResearchWork.pdf>
@@ -1359,7 +1319,7 @@ Package pdftex.def Info: images/ThemeoftheResearchWork.pdf used on input line 1
 35.
 (pdftex.def)             Requested size: 416.83289pt x 369.4343pt.
 
-<images/NormalDCRMSignature.png, id=1007, 694.09312pt x 364.36125pt>
+<images/NormalDCRMSignature.png, id=1019, 694.09312pt x 364.36125pt>
 File: images/NormalDCRMSignature.png Graphic file (type png)
 
 <use images/NormalDCRMSignature.png>
@@ -1380,7 +1340,7 @@ Missing character: There is no ’ in font cmr8!
  [12
 
 ]
-<images/PotentialDistributionAlonganArcChannel.png, id=1057, 599.23875pt x 549.
+<images/PotentialDistributionAlonganArcChannel.png, id=1069, 599.23875pt x 549.
 55313pt>
 File: images/PotentialDistributionAlonganArcChannel.png Graphic file (type png)
 
@@ -1389,7 +1349,7 @@ Package pdftex.def Info: images/PotentialDistributionAlonganArcChannel.png used
  on input line 17.
 (pdftex.def)             Requested size: 416.83289pt x 382.27792pt.
 
-<images/IntervalsandFailureModesintheInterruptionProcess.png, id=1061, 731.7337
+<images/IntervalsandFailureModesintheInterruptionProcess.png, id=1073, 731.7337
 5pt x 314.67563pt>
 File: images/IntervalsandFailureModesintheInterruptionProcess.png Graphic file 
 (type png)
@@ -1404,7 +1364,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
  []
 
 
-<images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png, id=1071, 
+<images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png, id=1083, 
 331.2375pt x 143.03438pt>
 File: images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png Graph
 ic file (type png)
@@ -1415,7 +1375,7 @@ Terminals.png used on input line 53.
 (pdftex.def)             Requested size: 416.83289pt x 180.00381pt.
 
 [14 <./images/IntervalsandFailureModesintheInterruptionProcess.png>]
-<images/CurvesofShortCircuitCurrentandRecoveryVoltage.png, id=1080, 370.38374pt
+<images/CurvesofShortCircuitCurrentandRecoveryVoltage.png, id=1092, 370.38374pt
  x 224.33812pt>
 File: images/CurvesofShortCircuitCurrentandRecoveryVoltage.png Graphic file (ty
 pe png)
@@ -1425,7 +1385,7 @@ ng used on input line 68.
 (pdftex.def)             Requested size: 416.83289pt x 252.4756pt.
 
 [15 <./images/RepresentationoftheNetworkConnectedtotheBreakerTerminals.png>]
-<images/CurrentShapesatInterruption.png, id=1091, 505.89pt x 323.70938pt>
+<images/CurrentShapesatInterruption.png, id=1103, 505.89pt x 323.70938pt>
 File: images/CurrentShapesatInterruption.png Graphic file (type png)
 
 <use images/CurrentShapesatInterruption.png>
@@ -1433,7 +1393,7 @@ Package pdftex.def Info: images/CurrentShapesatInterruption.png used on input l
 ine 82.
 (pdftex.def)             Requested size: 416.83289pt x 266.72765pt.
 
-<images/DielectricInterruptionRegime.png, id=1095, 331.2375pt x 203.25937pt>
+<images/DielectricInterruptionRegime.png, id=1107, 331.2375pt x 203.25937pt>
 File: images/DielectricInterruptionRegime.png Graphic file (type png)
 
 <use images/DielectricInterruptionRegime.png>
@@ -1511,7 +1471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--289
  []
 
 [25]
-<images/PrestrikePhenomenonduringClosing.png, id=1200, 424.58624pt x 301.8778pt
+<images/PrestrikePhenomenonduringClosing.png, id=1212, 424.58624pt x 301.8778pt
 >
 File: images/PrestrikePhenomenonduringClosing.png Graphic file (type png)
  <use images/PrestrikePhenomenonduringClosing.png>
@@ -1532,7 +1492,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 318.
 
 
-<images/VoltageRangeofApplicationofBreakingTechnologies.png, id=1213, 511.9125p
+<images/VoltageRangeofApplicationofBreakingTechnologies.png, id=1225, 511.9125p
 t x 290.58563pt>
 File: images/VoltageRangeofApplicationofBreakingTechnologies.png Graphic file (
 type png)
@@ -1555,7 +1515,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 332.
 
 [27]
-<images/MainComponentsofthePufferInterrupter.png, id=1224, 511.9125pt x 532.238
+<images/MainComponentsofthePufferInterrupter.png, id=1236, 511.9125pt x 532.238
 43pt>
 File: images/MainComponentsofthePufferInterrupter.png Graphic file (type png)
  <use images/MainComponentsofthePufferInterrupter.png>
@@ -1563,7 +1523,7 @@ Package pdftex.def Info: images/MainComponentsofthePufferInterrupter.png used o
 n input line 339.
 (pdftex.def)             Requested size: 416.83289pt x 433.38472pt.
 
-<images/FunctionofaPufferInterrupter.png, id=1225, 813.0375pt x 634.62094pt>
+<images/FunctionofaPufferInterrupter.png, id=1237, 813.0375pt x 634.62094pt>
 File: images/FunctionofaPufferInterrupter.png Graphic file (type png)
 
 <use images/FunctionofaPufferInterrupter.png>
@@ -1575,7 +1535,7 @@ Overfull \hbox (41.68582pt too wide) in paragraph at lines 348--349
  [][] 
  []
 
-<images/PressureinthePuffer.png, id=1226, 334.24875pt x 462.97969pt>
+<images/PressureinthePuffer.png, id=1238, 334.24875pt x 462.97969pt>
 File: images/PressureinthePuffer.png Graphic file (type png)
 
 <use images/PressureinthePuffer.png>
@@ -1598,7 +1558,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [28 <./images/VoltageRangeofApplicationofBreakingTechnologies.png>] [29 <./imag
 es/MainComponentsofthePufferInterrupter.png>] [30 <./images/FunctionofaPufferIn
 terrupter.png>] [31 <./images/PressureinthePuffer.png>]
-<images/IllustrationoftheSourcesofTRV.png, id=1249, 379.4175pt x 245.41687pt>
+<images/IllustrationoftheSourcesofTRV.png, id=1261, 379.4175pt x 245.41687pt>
 File: images/IllustrationoftheSourcesofTRV.png Graphic file (type png)
 
 <use images/IllustrationoftheSourcesofTRV.png>
@@ -1606,7 +1566,7 @@ Package pdftex.def Info: images/IllustrationoftheSourcesofTRV.png used on input
  line 376.
 (pdftex.def)             Requested size: 416.83289pt x 269.62234pt.
 
-<images/IECTwoandFourParameterLimitingTRVCurves.png, id=1254, 388.45125pt x 197
+<images/IECTwoandFourParameterLimitingTRVCurves.png, id=1266, 388.45125pt x 197
 .98969pt>
 File: images/IECTwoandFourParameterLimitingTRVCurves.png Graphic file (type png
 )
@@ -1615,7 +1575,7 @@ Package pdftex.def Info: images/IECTwoandFourParameterLimitingTRVCurves.png use
 d on input line 393.
 (pdftex.def)             Requested size: 416.83289pt x 212.46014pt.
  [32]
-<images/ShuntReactorEquivalentCircuit.png, id=1270, 412.54124pt x 146.04562pt>
+<images/ShuntReactorEquivalentCircuit.png, id=1282, 412.54124pt x 146.04562pt>
 File: images/ShuntReactorEquivalentCircuit.png Graphic file (type png)
 
 <use images/ShuntReactorEquivalentCircuit.png>
@@ -1631,14 +1591,14 @@ are: gen-er-a-tor, ca-pac-i-tances
  []
 
 
-<images/Oscillationmodesinreactorcircuit.png, id=1299, 758.835pt x 456.20438pt>
+<images/Oscillationmodesinreactorcircuit.png, id=1311, 758.835pt x 456.20438pt>
 File: images/Oscillationmodesinreactorcircuit.png Graphic file (type png)
 <use images/Oscillationmodesinreactorcircuit.png>
 Package pdftex.def Info: images/Oscillationmodesinreactorcircuit.png used on in
 put line 469.
 (pdftex.def)             Requested size: 416.83289pt x 250.59991pt.
  [36] [37 <./images/Oscillationmodesinreactorcircuit.png>]
-<images/TimeDefinitionsduringOpeningandClosing1.png, id=1320, 566.115pt x 371.8
+<images/TimeDefinitionsduringOpeningandClosing1.png, id=1332, 566.115pt x 371.8
 8937pt>
 File: images/TimeDefinitionsduringOpeningandClosing1.png Graphic file (type png
 )
@@ -1647,7 +1607,7 @@ Package pdftex.def Info: images/TimeDefinitionsduringOpeningandClosing1.png use
 d on input line 502.
 (pdftex.def)             Requested size: 416.83289pt x 273.83192pt.
 
-<images/TimeDefinitionsduringOpeningandClosing2.png, id=1321, 569.12625pt x 398
+<images/TimeDefinitionsduringOpeningandClosing2.png, id=1333, 569.12625pt x 398
 .23781pt>
 File: images/TimeDefinitionsduringOpeningandClosing2.png Graphic file (type png
 )
@@ -1656,7 +1616,7 @@ Package pdftex.def Info: images/TimeDefinitionsduringOpeningandClosing2.png use
 d on input line 503.
 (pdftex.def)             Requested size: 416.83289pt x 291.68344pt.
 
-<images/TimeDefinitionsduringCloseOpenCycleforCBwithout.png, id=1322, 771.63281
+<images/TimeDefinitionsduringCloseOpenCycleforCBwithout.png, id=1334, 771.63281
 pt x 430.60875pt>
 File: images/TimeDefinitionsduringCloseOpenCycleforCBwithout.png Graphic file (
 type png)
@@ -1673,7 +1633,7 @@ Overfull \hbox (8.11142pt too wide) in paragraph at lines 522--523
 y open-ing the CB in-ter-rup-tion
  []
 
-<images/FlowChartofDCRM.pdf, id=1348, 503.8825pt x 668.4975pt>
+<images/FlowChartofDCRM.pdf, id=1360, 503.8825pt x 668.4975pt>
 File: images/FlowChartofDCRM.pdf Graphic file (type pdf)
 
 <use images/FlowChartofDCRM.pdf>
@@ -1708,7 +1668,7 @@ Overfull \hbox (1.15863pt too wide) in paragraph at lines 7--8
 
 [46
 
-] <images/onelinediagram.pdf, id=1436, 419.31656pt x 301.125pt>
+] <images/onelinediagram.pdf, id=1448, 419.31656pt x 301.125pt>
 File: images/onelinediagram.pdf Graphic file (type pdf)
 
 <use images/onelinediagram.pdf>
@@ -1768,7 +1728,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--126
 
  []
 
-<images/f1SingleLineDiagram.png, id=1467, 261.97874pt x 163.3603pt>
+<images/f1SingleLineDiagram.png, id=1479, 261.97874pt x 163.3603pt>
 File: images/f1SingleLineDiagram.png Graphic file (type png)
 
 <use images/f1SingleLineDiagram.png>
@@ -1776,7 +1736,7 @@ Package pdftex.def Info: images/f1SingleLineDiagram.png used on input line 131.
 
 (pdftex.def)             Requested size: 261.9781pt x 163.3599pt.
 
-<images/f2ThreePhaseDiagram.png, id=1468, 325.215pt x 249.18094pt>
+<images/f2ThreePhaseDiagram.png, id=1480, 325.215pt x 249.18094pt>
 File: images/f2ThreePhaseDiagram.png Graphic file (type png)
 
 <use images/f2ThreePhaseDiagram.png>
@@ -1784,7 +1744,7 @@ Package pdftex.def Info: images/f2ThreePhaseDiagram.png used on input line 138.
 
 (pdftex.def)             Requested size: 325.2142pt x 249.18031pt.
 
-<images/f3EquivalentCircuitn.png, id=1469, 316.18124pt x 158.09062pt>
+<images/f3EquivalentCircuitn.png, id=1481, 316.18124pt x 158.09062pt>
 File: images/f3EquivalentCircuitn.png Graphic file (type png)
 
 <use images/f3EquivalentCircuitn.png>
@@ -1803,7 +1763,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--197
  []
 
 [53]
-<images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.png, id=1507
+<images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.png, id=1519
 , 430.60875pt x 341.77687pt>
 File: images/LatticeDiagramtoEvaluatetheCharacteristicsofTravellingWave.png Gra
 phic file (type png)
@@ -1813,7 +1773,7 @@ Package pdftex.def Info: images/LatticeDiagramtoEvaluatetheCharacteristicsofTra
 vellingWave.png used on input line 230.
 (pdftex.def)             Requested size: 416.83289pt x 330.85042pt.
 
-<images/g1SinglePhaseCircuitwith.png, id=1508, 268.00125pt x 171.64125pt>
+<images/g1SinglePhaseCircuitwith.png, id=1520, 268.00125pt x 171.64125pt>
 File: images/g1SinglePhaseCircuitwith.png Graphic file (type png)
 
 <use images/g1SinglePhaseCircuitwith.png>
@@ -1821,7 +1781,7 @@ Package pdftex.def Info: images/g1SinglePhaseCircuitwith.png used on input line
  239.
 (pdftex.def)             Requested size: 208.41644pt x 133.4789pt.
 
-<images/g2LineSideandSourceSideVoltages.png, id=1509, 399.74344pt x 268.75406pt
+<images/g2LineSideandSourceSideVoltages.png, id=1521, 399.74344pt x 268.75406pt
 >
 File: images/g2LineSideandSourceSideVoltages.png Graphic file (type png)
  <use images/g2LineSideandSourceSideVoltages.png>
@@ -1829,7 +1789,7 @@ Package pdftex.def Info: images/g2LineSideandSourceSideVoltages.png used on inp
 ut line 246.
 (pdftex.def)             Requested size: 204.2504pt x 137.3211pt.
 
-<images/g3TransientRecoveryVoltage.png, id=1510, 392.21532pt x 268.75406pt>
+<images/g3TransientRecoveryVoltage.png, id=1522, 392.21532pt x 268.75406pt>
 File: images/g3TransientRecoveryVoltage.png Graphic file (type png)
 
 <use images/g3TransientRecoveryVoltage.png>
@@ -1841,7 +1801,7 @@ png>] [56 <./images/g1SinglePhaseCircuitwith.png> <./images/g2LineSideandSource
 SideVoltages.png> <./images/g3TransientRecoveryVoltage.png>] [57
 
 ]
-<images/SchematicofForcesExertedontheFixed.png, id=1541, 659.46375pt x 345.5409
+<images/SchematicofForcesExertedontheFixed.png, id=1553, 659.46375pt x 345.5409
 4pt>
 File: images/SchematicofForcesExertedontheFixed.png Graphic file (type png)
  <use images/SchematicofForcesExertedontheFixed.png>
@@ -1849,7 +1809,7 @@ Package pdftex.def Info: images/SchematicofForcesExertedontheFixed.png used on
 input line 293.
 (pdftex.def)             Requested size: 416.83289pt x 218.41428pt.
  [58 <./images/SchematicofForcesExertedontheFixed.png>]
-<images/SchematicDiagramofStaticContactResistanceMeasurement.jpg, id=1556, 377.
+<images/SchematicDiagramofStaticContactResistanceMeasurement.jpg, id=1568, 377.
 15906pt x 261.97874pt>
 File: images/SchematicDiagramofStaticContactResistanceMeasurement.jpg Graphic f
 ile (type jpg)
@@ -1859,7 +1819,7 @@ Package pdftex.def Info: images/SchematicDiagramofStaticContactResistanceMeasur
 ement.jpg used on input line 345.
 (pdftex.def)             Requested size: 416.83289pt x 289.53665pt.
 
-<images/SchematicDiagramofDCRM.png, id=1557, 695.59875pt x 285.31593pt>
+<images/SchematicDiagramofDCRM.png, id=1569, 695.59875pt x 285.31593pt>
 File: images/SchematicDiagramofDCRM.png Graphic file (type png)
 
 <use images/SchematicDiagramofDCRM.png>
@@ -1868,7 +1828,7 @@ Package pdftex.def Info: images/SchematicDiagramofDCRM.png used on input line 3
 (pdftex.def)             Requested size: 416.83289pt x 170.97319pt.
  [59] [60 <./images/SchematicDiagramofStaticContactResistanceMeasurement.jpg> <
 ./images/SchematicDiagramofDCRM.png>]
-<images/h1Stablecurrentsource.png, id=1571, 200.75pt x 155.58125pt>
+<images/h1Stablecurrentsource.png, id=1583, 200.75pt x 155.58125pt>
 File: images/h1Stablecurrentsource.png Graphic file (type png)
 
 <use images/h1Stablecurrentsource.png>
@@ -1876,7 +1836,7 @@ Package pdftex.def Info: images/h1Stablecurrentsource.png used on input line 36
 3.
 (pdftex.def)             Requested size: 204.2504pt x 158.3038pt.
 
-<images/h2Dataacquisitionsystem.jpg, id=1572, 142.569pt x 101.5065pt>
+<images/h2Dataacquisitionsystem.jpg, id=1584, 142.569pt x 101.5065pt>
 File: images/h2Dataacquisitionsystem.jpg Graphic file (type jpg)
 
 <use images/h2Dataacquisitionsystem.jpg>
@@ -1884,7 +1844,7 @@ Package pdftex.def Info: images/h2Dataacquisitionsystem.jpg used on input line
 370.
 (pdftex.def)             Requested size: 204.25714pt x 142.27226pt.
 
-<images/h3VoltageandCurrentsensors.png, id=1573, 234.8775pt x 176.66pt>
+<images/h3VoltageandCurrentsensors.png, id=1585, 234.8775pt x 176.66pt>
 File: images/h3VoltageandCurrentsensors.png Graphic file (type png)
 
 <use images/h3VoltageandCurrentsensors.png>
@@ -1892,7 +1852,7 @@ Package pdftex.def Info: images/h3VoltageandCurrentsensors.png used on input li
 ne 376.
 (pdftex.def)             Requested size: 204.24858pt x 142.26625pt.
 
-<images/h4Testmanagersoftware.png, id=1574, 234.8775pt x 240.9pt>
+<images/h4Testmanagersoftware.png, id=1586, 234.8775pt x 240.9pt>
 File: images/h4Testmanagersoftware.png Graphic file (type png)
 
 <use images/h4Testmanagersoftware.png>
@@ -1900,7 +1860,7 @@ Package pdftex.def Info: images/h4Testmanagersoftware.png used on input line 38
 3.
 (pdftex.def)             Requested size: 204.2504pt x 209.48572pt.
 
-<images/MeasurementDetailsfromDCRMSignature.png, id=1577, 470.50781pt x 259.720
+<images/MeasurementDetailsfromDCRMSignature.png, id=1589, 470.50781pt x 259.720
 3pt>
 File: images/MeasurementDetailsfromDCRMSignature.png Graphic file (type png)
  <use images/MeasurementDetailsfromDCRMSignature.png>
@@ -1908,7 +1868,7 @@ Package pdftex.def Info: images/MeasurementDetailsfromDCRMSignature.png used on
  input line 398.
 (pdftex.def)             Requested size: 416.83289pt x 230.09221pt.
 
-<images/EnlargedViewofTrippingPortionofDCRMSignature.png, id=1578, 457.71pt x 2
+<images/EnlargedViewofTrippingPortionofDCRMSignature.png, id=1590, 457.71pt x 2
 74.02374pt>
 File: images/EnlargedViewofTrippingPortionofDCRMSignature.png Graphic file (typ
 e png)
@@ -1926,14 +1886,14 @@ or-mal. The con-nec-tions
  []
 
 [64 <./images/EnlargedViewofTrippingPortionofDCRMSignature.png>]
-<images/ContactBouncingafterClosingCycle.png, id=1603, 403.5075pt x 367.3725pt>
+<images/ContactBouncingafterClosingCycle.png, id=1615, 403.5075pt x 367.3725pt>
 File: images/ContactBouncingafterClosingCycle.png Graphic file (type png)
 <use images/ContactBouncingafterClosingCycle.png>
 Package pdftex.def Info: images/ContactBouncingafterClosingCycle.png used on in
 put line 447.
 (pdftex.def)             Requested size: 416.83289pt x 379.5078pt.
 
-<images/DCRMSignatureShowingFluctuationsinResistance.png, id=1604, 431.36156pt 
+<images/DCRMSignatureShowingFluctuationsinResistance.png, id=1616, 431.36156pt 
 x 326.72063pt>
 File: images/DCRMSignatureShowingFluctuationsinResistance.png Graphic file (typ
 e png)
@@ -1949,7 +1909,7 @@ Overfull \hbox (9.18306pt too wide) in paragraph at lines 468--469
 []3.3.9[] and []3.3.10[], ab-nor-mal-ity
  []
 
-<images/EnlargedViewofRPoleDCRM.png, id=1620, 437.38406pt x 396.7322pt>
+<images/EnlargedViewofRPoleDCRM.png, id=1632, 437.38406pt x 396.7322pt>
 File: images/EnlargedViewofRPoleDCRM.png Graphic file (type png)
 
 <use images/EnlargedViewofRPoleDCRM.png>
@@ -1957,7 +1917,7 @@ Package pdftex.def Info: images/EnlargedViewofRPoleDCRM.png used on input line
 472.
 (pdftex.def)             Requested size: 416.83289pt x 378.09206pt.
 
-<images/RPoleDCRMinTrippingZone.png, id=1621, 472.01344pt x 416.30531pt>
+<images/RPoleDCRMinTrippingZone.png, id=1633, 472.01344pt x 416.30531pt>
 File: images/RPoleDCRMinTrippingZone.png Graphic file (type png)
 
 <use images/RPoleDCRMinTrippingZone.png>
@@ -1965,7 +1925,7 @@ Package pdftex.def Info: images/RPoleDCRMinTrippingZone.png used on input line
 479.
 (pdftex.def)             Requested size: 327.7783pt x 289.07999pt.
 
-<images/YPoleDCRMinTrippingZone.png, id=1622, 458.46281pt x 414.79968pt>
+<images/YPoleDCRMinTrippingZone.png, id=1634, 458.46281pt x 414.79968pt>
 File: images/YPoleDCRMinTrippingZone.png Graphic file (type png)
 
 <use images/YPoleDCRMinTrippingZone.png>
@@ -1973,7 +1933,7 @@ Package pdftex.def Info: images/YPoleDCRMinTrippingZone.png used on input line
 486.
 (pdftex.def)             Requested size: 319.52266pt x 289.07999pt.
 
-<images/WrongAssemblyofArcingContact.png, id=1623, 469.755pt x 351.56343pt>
+<images/WrongAssemblyofArcingContact.png, id=1635, 469.755pt x 351.56343pt>
 File: images/WrongAssemblyofArcingContact.png Graphic file (type png)
 
 <use images/WrongAssemblyofArcingContact.png>
@@ -1982,7 +1942,7 @@ line 493.
 (pdftex.def)             Requested size: 416.83289pt x 311.95705pt.
  [67 <./images/EnlargedViewofRPoleDCRM.png>] [68 <./images/RPoleDCRMinTrippingZ
 one.png> <./images/YPoleDCRMinTrippingZone.png>]
-<images/ClosingGraphof245kV.png, id=1639, 449.42906pt x 446.41782pt>
+<images/ClosingGraphof245kV.png, id=1651, 449.42906pt x 446.41782pt>
 File: images/ClosingGraphof245kV.png Graphic file (type png)
 
 <use images/ClosingGraphof245kV.png>
@@ -1990,7 +1950,7 @@ Package pdftex.def Info: images/ClosingGraphof245kV.png used on input line 503.
 
 (pdftex.def)             Requested size: 291.03503pt x 289.07999pt.
 
-<images/CompleteDCRMSignatureof245.png, id=1640, 440.39531pt x 387.69844pt>
+<images/CompleteDCRMSignatureof245.png, id=1652, 440.39531pt x 387.69844pt>
 File: images/CompleteDCRMSignatureof245.png Graphic file (type png)
 
 <use images/CompleteDCRMSignatureof245.png>
@@ -1998,14 +1958,14 @@ Package pdftex.def Info: images/CompleteDCRMSignatureof245.png used on input li
 ne 510.
 (pdftex.def)             Requested size: 328.3805pt x 289.07999pt.
 
-<images/DCRMof245kVSF6.jpg, id=1641, 440.39531pt x 384.6872pt>
+<images/DCRMof245kVSF6.jpg, id=1653, 440.39531pt x 384.6872pt>
 File: images/DCRMof245kVSF6.jpg Graphic file (type jpg)
 
 <use images/DCRMof245kVSF6.jpg>
 Package pdftex.def Info: images/DCRMof245kVSF6.jpg used on input line 517.
 (pdftex.def)             Requested size: 330.96765pt x 289.07999pt.
 
-<images/ContactBouncinginClosingGraph.png, id=1642, 444.91219pt x 449.42906pt>
+<images/ContactBouncinginClosingGraph.png, id=1654, 444.91219pt x 449.42906pt>
 File: images/ContactBouncinginClosingGraph.png Graphic file (type png)
 
 <use images/ContactBouncinginClosingGraph.png>
@@ -2018,7 +1978,7 @@ F6.jpg> <./images/ContactBouncinginClosingGraph.png>]
 Missing character: There is no Î in font cmr12!
 Missing character: There is no © in font cmr12!
 
-<images/AbnormalVariationsinResistanceinno.png, id=1658, 731.73375pt x 511.9125
+<images/AbnormalVariationsinResistanceinno.png, id=1670, 731.73375pt x 511.9125
 pt>
 File: images/AbnormalVariationsinResistanceinno.png Graphic file (type png)
  <use images/AbnormalVariationsinResistanceinno.png>
@@ -2026,7 +1986,7 @@ Package pdftex.def Info: images/AbnormalVariationsinResistanceinno.png used on
 input line 535.
 (pdftex.def)             Requested size: 416.83289pt x 291.6135pt.
 
-<images/LooseRingConnectingPTFE.png, id=1659, 731.73375pt x 965.10562pt>
+<images/LooseRingConnectingPTFE.png, id=1671, 731.73375pt x 965.10562pt>
 File: images/LooseRingConnectingPTFE.png Graphic file (type png)
 
 <use images/LooseRingConnectingPTFE.png>
@@ -2048,7 +2008,7 @@ Overfull \hbox (2.85454pt too wide) in paragraph at lines 557--558
  []
 
 [73 <./images/LooseRingConnectingPTFE.png>]
-<images/ProblematicDCRMSignature.png, id=1678, 383.93437pt x 295.85532pt>
+<images/ProblematicDCRMSignature.png, id=1690, 383.93437pt x 295.85532pt>
 File: images/ProblematicDCRMSignature.png Graphic file (type png)
 
 <use images/ProblematicDCRMSignature.png>
@@ -2056,14 +2016,14 @@ Package pdftex.def Info: images/ProblematicDCRMSignature.png used on input line
  564.
 (pdftex.def)             Requested size: 333.46758pt x 256.98123pt.
 
-<images/IncreaseinResistanceinCloseZone.png, id=1679, 389.20406pt x 288.3272pt>
+<images/IncreaseinResistanceinCloseZone.png, id=1691, 389.20406pt x 288.3272pt>
 File: images/IncreaseinResistanceinCloseZone.png Graphic file (type png)
 <use images/IncreaseinResistanceinCloseZone.png>
 Package pdftex.def Info: images/IncreaseinResistanceinCloseZone.png used on inp
 ut line 571.
 (pdftex.def)             Requested size: 333.46758pt x 247.04584pt.
 
-<images/i1Movingcontactassemblyinside.png, id=1680, 161.85469pt x 218.31563pt>
+<images/i1Movingcontactassemblyinside.png, id=1692, 161.85469pt x 218.31563pt>
 File: images/i1Movingcontactassemblyinside.png Graphic file (type png)
 
 <use images/i1Movingcontactassemblyinside.png>
@@ -2075,7 +2035,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 622--622
  []\OT1/cmr/m/n/10.95 (a) |Mov-ing con-tact 
  []
 
-<images/i2Stationarycontactassembly.png, id=1681, 143.03438pt x 181.42781pt>
+<images/i2Stationarycontactassembly.png, id=1693, 143.03438pt x 181.42781pt>
 File: images/i2Stationarycontactassembly.png Graphic file (type png)
 
 <use images/i2Stationarycontactassembly.png>
@@ -2087,14 +2047,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 628--628
  []\OT1/cmr/m/n/10.95 (b) |Sta-tion-ary con-tact 
  []
 
-<images/imInside.png, id=1682, 245.41687pt x 366.61969pt>
+<images/imInside.png, id=1694, 245.41687pt x 366.61969pt>
 File: images/imInside.png Graphic file (type png)
 
 <use images/imInside.png>
 Package pdftex.def Info: images/imInside.png used on input line 633.
 (pdftex.def)             Requested size: 125.0486pt x 170.71693pt.
 
-<images/i3Fixedandmovingcontacts.png, id=1683, 160.34906pt x 166.37157pt>
+<images/i3Fixedandmovingcontacts.png, id=1695, 160.34906pt x 166.37157pt>
 File: images/i3Fixedandmovingcontacts.png Graphic file (type png)
 
 <use images/i3Fixedandmovingcontacts.png>
@@ -2116,7 +2076,7 @@ Underfull \hbox (badness 5592) in paragraph at lines 640--640
  \OT1/cmr/m/n/10.95 con-di-tion af-ter re-moval 
  []
 
-<images/i4Movingcontactassembly.png, id=1684, 150.5625pt x 131.74219pt>
+<images/i4Movingcontactassembly.png, id=1696, 150.5625pt x 131.74219pt>
 File: images/i4Movingcontactassembly.png Graphic file (type png)
 
 <use images/i4Movingcontactassembly.png>
@@ -2133,7 +2093,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 646--646
  \OT1/cmr/m/n/10.95 as-sem-bly af-ter Teflon 
  []
 
-<images/i5Fixedcontactassembly.png, id=1685, 116.68594pt x 124.21407pt>
+<images/i5Fixedcontactassembly.png, id=1697, 116.68594pt x 124.21407pt>
 File: images/i5Fixedcontactassembly.png Graphic file (type png)
 
 <use images/i5Fixedcontactassembly.png>
@@ -2146,7 +2106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 653--653
  []
 
 
-<images/j1PufferCylinderSlidingContacts.png, id=1686, 206.27063pt x 241.65282pt
+<images/j1PufferCylinderSlidingContacts.png, id=1698, 206.27063pt x 241.65282pt
 >
 File: images/j1PufferCylinderSlidingContacts.png Graphic file (type png)
  <use images/j1PufferCylinderSlidingContacts.png>
@@ -2154,7 +2114,7 @@ Package pdftex.def Info: images/j1PufferCylinderSlidingContacts.png used on inp
 ut line 666.
 (pdftex.def)             Requested size: 204.2526pt x 199.17798pt.
 
-<images/j2MainMovingContact.png, id=1687, 204.765pt x 213.79875pt>
+<images/j2MainMovingContact.png, id=1699, 204.765pt x 213.79875pt>
 File: images/j2MainMovingContact.png Graphic file (type png)
 
 <use images/j2MainMovingContact.png>
@@ -2162,7 +2122,7 @@ Package pdftex.def Info: images/j2MainMovingContact.png used on input line 672.
 
 (pdftex.def)             Requested size: 204.26456pt x 199.17004pt.
 
-<images/j3MovingArcContactSideofNozzle.png, id=1688, 150.5625pt x 149.05687pt>
+<images/j3MovingArcContactSideofNozzle.png, id=1700, 150.5625pt x 149.05687pt>
 File: images/j3MovingArcContactSideofNozzle.png Graphic file (type png)
 
 <use images/j3MovingArcContactSideofNozzle.png>
@@ -2170,7 +2130,7 @@ Package pdftex.def Info: images/j3MovingArcContactSideofNozzle.png used on inpu
 t line 679.
 (pdftex.def)             Requested size: 204.27063pt x 170.72719pt.
 
-<images/j4StationaryContactSideofNozzle.png, id=1689, 195.73125pt x 180.675pt>
+<images/j4StationaryContactSideofNozzle.png, id=1701, 195.73125pt x 180.675pt>
 File: images/j4StationaryContactSideofNozzle.png Graphic file (type png)
 
 <use images/j4StationaryContactSideofNozzle.png>
@@ -2203,7 +2163,7 @@ it breaker man-u-fac-tur-ing
  []
 
 
-<images/DCRMSignatureShowingtheParametersusedinAlgorithm.png, id=1704, 377.1590
+<images/DCRMSignatureShowingtheParametersusedinAlgorithm.png, id=1716, 377.1590
 6pt x 303.38344pt>
 File: images/DCRMSignatureShowingtheParametersusedinAlgorithm.png Graphic file 
 (type png)
@@ -2215,14 +2175,14 @@ m.png used on input line 701.
  [77
 
  <./images/DCRMSignatureShowingtheParametersusedinAlgorithm.png>] [78] [79]
-<images/FlowChartofProposedAlgorithm1.pdf, id=1722, 547.04375pt x 1006.76125pt>
+<images/FlowChartofProposedAlgorithm1.pdf, id=1734, 547.04375pt x 1006.76125pt>
 File: images/FlowChartofProposedAlgorithm1.pdf Graphic file (type pdf)
 <use images/FlowChartofProposedAlgorithm1.pdf>
 Package pdftex.def Info: images/FlowChartofProposedAlgorithm1.pdf used on input
  line 747.
 (pdftex.def)             Requested size: 416.83435pt x 700.28848pt.
 
-<images/FlowChartofProposedAlgorithm2.pdf, id=1723, 503.8825pt x 926.46124pt>
+<images/FlowChartofProposedAlgorithm2.pdf, id=1735, 503.8825pt x 926.46124pt>
 File: images/FlowChartofProposedAlgorithm2.pdf Graphic file (type pdf)
 
 <use images/FlowChartofProposedAlgorithm2.pdf>
@@ -2240,21 +2200,21 @@ Chapter 4.
 (chapters/PerformanceAnalysis.tex [84
 
 ] [85]
-<images/1trvcb2p2411.png, id=1772, 1191.45125pt x 545.03625pt>
+<images/1trvcb2p2411.png, id=1784, 1191.45125pt x 545.03625pt>
 File: images/1trvcb2p2411.png Graphic file (type png)
 
 <use images/1trvcb2p2411.png>
 Package pdftex.def Info: images/1trvcb2p2411.png used on input line 49.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/2trvawithstdcbp2412.png, id=1773, 1191.45125pt x 545.03625pt>
+<images/2trvawithstdcbp2412.png, id=1785, 1191.45125pt x 545.03625pt>
 File: images/2trvawithstdcbp2412.png Graphic file (type png)
 
 <use images/2trvawithstdcbp2412.png>
 Package pdftex.def Info: images/2trvawithstdcbp2412.png used on input line 58.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/3trvawithstdenlargedcbp2413.png, id=1774, 893.58844pt x 408.77719pt>
+<images/3trvawithstdenlargedcbp2413.png, id=1786, 893.58844pt x 408.77719pt>
 File: images/3trvawithstdenlargedcbp2413.png Graphic file (type png)
 
 <use images/3trvawithstdenlargedcbp2413.png>
@@ -2262,7 +2222,7 @@ Package pdftex.def Info: images/3trvawithstdenlargedcbp2413.png used on input l
 ine 67.
 (pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
 
-<images/4completetrvcb1p1414.png, id=1775, 1191.45125pt x 545.03625pt>
+<images/4completetrvcb1p1414.png, id=1787, 1191.45125pt x 545.03625pt>
 File: images/4completetrvcb1p1414.png Graphic file (type png)
 
 <use images/4completetrvcb1p1414.png>
@@ -2270,21 +2230,21 @@ Package pdftex.def Info: images/4completetrvcb1p1414.png used on input line 76.
 
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/5trvcb1p1415.png, id=1776, 1191.45125pt x 545.03625pt>
+<images/5trvcb1p1415.png, id=1788, 1191.45125pt x 545.03625pt>
 File: images/5trvcb1p1415.png Graphic file (type png)
 
 <use images/5trvcb1p1415.png>
 Package pdftex.def Info: images/5trvcb1p1415.png used on input line 85.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/6trvawithstdcbp1416.png, id=1777, 1191.45125pt x 545.03625pt>
+<images/6trvawithstdcbp1416.png, id=1789, 1191.45125pt x 545.03625pt>
 File: images/6trvawithstdcbp1416.png Graphic file (type png)
 
 <use images/6trvawithstdcbp1416.png>
 Package pdftex.def Info: images/6trvawithstdcbp1416.png used on input line 94.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/7trvawithstdenlargedcbp1417.png, id=1778, 893.58844pt x 408.77719pt>
+<images/7trvawithstdenlargedcbp1417.png, id=1790, 893.58844pt x 408.77719pt>
 File: images/7trvawithstdenlargedcbp1417.png Graphic file (type png)
 
 <use images/7trvawithstdenlargedcbp1417.png>
@@ -2292,21 +2252,21 @@ Package pdftex.def Info: images/7trvawithstdenlargedcbp1417.png used on input l
 ine 103.
 (pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
 
-<images/8slfcp418.png, id=1779, 893.58844pt x 408.77719pt>
+<images/8slfcp418.png, id=1791, 893.58844pt x 408.77719pt>
 File: images/8slfcp418.png Graphic file (type png)
 
 <use images/8slfcp418.png>
 Package pdftex.def Info: images/8slfcp418.png used on input line 112.
 (pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
 
-<images/9slfd419.png, id=1780, 893.58844pt x 408.77719pt>
+<images/9slfd419.png, id=1792, 893.58844pt x 408.77719pt>
 File: images/9slfd419.png Graphic file (type png)
 
 <use images/9slfd419.png>
 Package pdftex.def Info: images/9slfd419.png used on input line 121.
 (pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
 
-<images/91slfdcpcombine4110.png, id=1781, 893.58844pt x 408.77719pt>
+<images/91slfdcpcombine4110.png, id=1793, 893.58844pt x 408.77719pt>
 File: images/91slfdcpcombine4110.png Graphic file (type png)
 
 <use images/91slfdcpcombine4110.png>
@@ -2314,42 +2274,42 @@ Package pdftex.def Info: images/91slfdcpcombine4110.png used on input line 130.
 
 (pdftex.def)             Requested size: 700.50687pt x 320.45418pt.
 
-<images/41112km.png, id=1782, 1191.45125pt x 545.03625pt>
+<images/41112km.png, id=1794, 1191.45125pt x 545.03625pt>
 File: images/41112km.png Graphic file (type png)
 
 <use images/41112km.png>
 Package pdftex.def Info: images/41112km.png used on input line 138.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/41222km.png, id=1783, 1191.45125pt x 545.03625pt>
+<images/41222km.png, id=1795, 1191.45125pt x 545.03625pt>
 File: images/41222km.png Graphic file (type png)
 
 <use images/41222km.png>
 Package pdftex.def Info: images/41222km.png used on input line 145.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/41332km.png, id=1784, 1191.45125pt x 545.03625pt>
+<images/41332km.png, id=1796, 1191.45125pt x 545.03625pt>
 File: images/41332km.png Graphic file (type png)
 
 <use images/41332km.png>
 Package pdftex.def Info: images/41332km.png used on input line 152.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/41452km.png, id=1785, 1191.45125pt x 545.03625pt>
+<images/41452km.png, id=1797, 1191.45125pt x 545.03625pt>
 File: images/41452km.png Graphic file (type png)
 
 <use images/41452km.png>
 Package pdftex.def Info: images/41452km.png used on input line 159.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/41562km.png, id=1786, 1191.45125pt x 545.03625pt>
+<images/41562km.png, id=1798, 1191.45125pt x 545.03625pt>
 File: images/41562km.png Graphic file (type png)
 
 <use images/41562km.png>
 Package pdftex.def Info: images/41562km.png used on input line 166.
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/92transformerp44111.png, id=1787, 1191.45125pt x 545.03625pt>
+<images/92transformerp44111.png, id=1799, 1191.45125pt x 545.03625pt>
 File: images/92transformerp44111.png Graphic file (type png)
 
 <use images/92transformerp44111.png>
@@ -2357,7 +2317,7 @@ Package pdftex.def Info: images/92transformerp44111.png used on input line 175.
 
 (pdftex.def)             Requested size: 700.50687pt x 320.44586pt.
 
-<images/93transformerp54112.png, id=1788, 1191.45125pt x 545.03625pt>
+<images/93transformerp54112.png, id=1800, 1191.45125pt x 545.03625pt>
 File: images/93transformerp54112.png Graphic file (type png)
 
 <use images/93transformerp54112.png>
@@ -2379,7 +2339,7 @@ ode of trans-mis-sion
  []
 
 
-<images/VariationofRRRVwithFaultDistance.png, id=1897, 362.3136pt x 217.7736pt>
+<images/VariationofRRRVwithFaultDistance.png, id=1909, 362.3136pt x 217.7736pt>
 File: images/VariationofRRRVwithFaultDistance.png Graphic file (type png)
 <use images/VariationofRRRVwithFaultDistance.png>
 Package pdftex.def Info: images/VariationofRRRVwithFaultDistance.png used on in
@@ -2448,7 +2408,7 @@ Overfull \hbox (15.7033pt too wide) in paragraph at lines 244--258
  []
 
 [106 <./images/VariationofRRRVwithFaultDistance.png>]
-<images/k1RelativelyNewFixed.png, id=1919, 162.6075pt x 264.23718pt>
+<images/k1RelativelyNewFixed.png, id=1931, 162.6075pt x 264.23718pt>
 File: images/k1RelativelyNewFixed.png Graphic file (type png)
 
 <use images/k1RelativelyNewFixed.png>
@@ -2456,14 +2416,14 @@ Package pdftex.def Info: images/k1RelativelyNewFixed.png used on input line 270
 .
 (pdftex.def)             Requested size: 125.05432pt x 227.62257pt.
 
-<images/k2NewMovingContact.png, id=1920, 126.4725pt x 253.69781pt>
+<images/k2NewMovingContact.png, id=1932, 126.4725pt x 253.69781pt>
 File: images/k2NewMovingContact.png Graphic file (type png)
 
 <use images/k2NewMovingContact.png>
 Package pdftex.def Info: images/k2NewMovingContact.png used on input line 276.
 (pdftex.def)             Requested size: 125.05376pt x 227.62912pt.
 
-<images/k3SlightlyWornMoving.png, id=1921, 117.43875pt x 253.69781pt>
+<images/k3SlightlyWornMoving.png, id=1933, 117.43875pt x 253.69781pt>
 File: images/k3SlightlyWornMoving.png Graphic file (type png)
 
 <use images/k3SlightlyWornMoving.png>
@@ -2471,7 +2431,7 @@ Package pdftex.def Info: images/k3SlightlyWornMoving.png used on input line 282
 .
 (pdftex.def)             Requested size: 125.05072pt x 227.62912pt.
 
-<images/k4WornMovingContact.png, id=1922, 132.495pt x 293.59688pt>
+<images/k4WornMovingContact.png, id=1934, 132.495pt x 293.59688pt>
 File: images/k4WornMovingContact.png Graphic file (type png)
 
 <use images/k4WornMovingContact.png>
@@ -2479,7 +2439,7 @@ Package pdftex.def Info: images/k4WornMovingContact.png used on input line 289.
 
 (pdftex.def)             Requested size: 125.05275pt x 227.62033pt.
 
-<images/k5SeriouslyWornMovingContact.png, id=1923, 135.50626pt x 292.84406pt>
+<images/k5SeriouslyWornMovingContact.png, id=1935, 135.50626pt x 292.84406pt>
 File: images/k5SeriouslyWornMovingContact.png Graphic file (type png)
 
 <use images/k5SeriouslyWornMovingContact.png>
@@ -2491,7 +2451,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--296
  []\OT1/cmr/m/n/10.95 (e) |Se-ri-ously Worn 
  []
 
-<images/DCRMSignatureintheTripPortion.png, id=1926, 355.3275pt x 147.55125pt>
+<images/DCRMSignatureintheTripPortion.png, id=1938, 355.3275pt x 147.55125pt>
 File: images/DCRMSignatureintheTripPortion.png Graphic file (type png)
 
 <use images/DCRMSignatureintheTripPortion.png>
@@ -2506,7 +2466,7 @@ Overfull \hbox (1.24956pt too wide) in paragraph at lines 340--348
  [] 
  []
 
-<images/l1SignatureatCommissioning.png, id=1954, 269.50688pt x 115.18031pt>
+<images/l1SignatureatCommissioning.png, id=1966, 269.50688pt x 115.18031pt>
 File: images/l1SignatureatCommissioning.png Graphic file (type png)
 
 <use images/l1SignatureatCommissioning.png>
@@ -2514,7 +2474,7 @@ Package pdftex.def Info: images/l1SignatureatCommissioning.png used on input li
 ne 357.
 (pdftex.def)             Requested size: 227.62614pt x 142.27374pt.
 
-<images/l2Signatureon482011.png, id=1955, 270.25969pt x 131.74219pt>
+<images/l2Signatureon482011.png, id=1967, 270.25969pt x 131.74219pt>
 File: images/l2Signatureon482011.png Graphic file (type png)
 
 <use images/l2Signatureon482011.png>
@@ -2522,7 +2482,7 @@ Package pdftex.def Info: images/l2Signatureon482011.png used on input line 364.
 
 (pdftex.def)             Requested size: 227.6269pt x 142.27138pt.
 
-<images/l3Signatureon2672012.png, id=1956, 219.82124pt x 121.95563pt>
+<images/l3Signatureon2672012.png, id=1968, 219.82124pt x 121.95563pt>
 File: images/l3Signatureon2672012.png Graphic file (type png)
 
 <use images/l3Signatureon2672012.png>
@@ -2530,7 +2490,7 @@ Package pdftex.def Info: images/l3Signatureon2672012.png used on input line 371
 .
 (pdftex.def)             Requested size: 227.62926pt x 142.26506pt.
 
-<images/l4Signatureon15122014.png, id=1957, 225.84375pt x 155.07938pt>
+<images/l4Signatureon15122014.png, id=1969, 225.84375pt x 155.07938pt>
 File: images/l4Signatureon15122014.png Graphic file (type png)
 
 <use images/l4Signatureon15122014.png>
@@ -2541,14 +2501,14 @@ Package pdftex.def Info: images/l4Signatureon15122014.png used on input line 37
 
 LaTeX Warning: Float too large for page by 8.91628pt on input line 385.
 
-<images/OutputoftheProgram.png, id=1958, 508.90125pt x 258.21469pt>
+<images/OutputoftheProgram.png, id=1970, 508.90125pt x 258.21469pt>
 File: images/OutputoftheProgram.png Graphic file (type png)
 
 <use images/OutputoftheProgram.png>
 Package pdftex.def Info: images/OutputoftheProgram.png used on input line 389.
 (pdftex.def)             Requested size: 416.83289pt x 211.50888pt.
 
-<images/m1SignatureatCommissioning.png, id=1959, 165.61874pt x 62.48344pt>
+<images/m1SignatureatCommissioning.png, id=1971, 165.61874pt x 62.48344pt>
 File: images/m1SignatureatCommissioning.png Graphic file (type png)
 
 <use images/m1SignatureatCommissioning.png>
@@ -2556,7 +2516,7 @@ Package pdftex.def Info: images/m1SignatureatCommissioning.png used on input li
 ne 398.
 (pdftex.def)             Requested size: 227.63422pt x 142.29684pt.
 
-<images/m2Signatureon482011.png, id=1960, 212.29312pt x 103.13531pt>
+<images/m2Signatureon482011.png, id=1972, 212.29312pt x 103.13531pt>
 File: images/m2Signatureon482011.png Graphic file (type png)
 
 <use images/m2Signatureon482011.png>
@@ -2564,7 +2524,7 @@ Package pdftex.def Info: images/m2Signatureon482011.png used on input line 405.
 
 (pdftex.def)             Requested size: 227.63405pt x 142.27649pt.
 
-<images/m3Signatureon2672012.png, id=1961, 173.89969pt x 96.36pt>
+<images/m3Signatureon2672012.png, id=1973, 173.89969pt x 96.36pt>
 File: images/m3Signatureon2672012.png Graphic file (type png)
 
 <use images/m3Signatureon2672012.png>
@@ -2572,7 +2532,7 @@ Package pdftex.def Info: images/m3Signatureon2672012.png used on input line 412
 .
 (pdftex.def)             Requested size: 227.63245pt x 142.26353pt.
 
-<images/m4Signatureon15122014.png, id=1962, 173.89969pt x 121.20282pt>
+<images/m4Signatureon15122014.png, id=1974, 173.89969pt x 121.20282pt>
 File: images/m4Signatureon15122014.png Graphic file (type png)
 
 <use images/m4Signatureon15122014.png>
@@ -2721,18 +2681,18 @@ ans-mis-sion and Dis-tri-bu-tion
  []
 
 [130] [131]) [132])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3D48A47FEF80D3C2325ABF42B48B4229;6043.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 23184 strings out of 493328
- 438094 string characters out of 3139116
+ 23192 strings out of 493328
+ 438156 string characters out of 3139116
  659440 words of memory out of 3000000
  25662 multiletter control sequences out of 15000+200000
  551673 words of font info for 104 fonts, out of 3000000 for 9000
@@ -2759,8 +2719,9 @@ pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on main.pdf (149 pages, 11280859 bytes).
+Output written on main.pdf (149 pages, 11282655 bytes).
 PDF statistics:
- 2484 PDF objects out of 2487 (max. 8388607)
- 655 named destinations out of 1000 (max. 500000)
+ 2497 PDF objects out of 2984 (max. 8388607)
+ 663 named destinations out of 1000 (max. 500000)
  1172 words of extra memory for PDF output out of 10000 (max. 10000000)
+
