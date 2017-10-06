@@ -182,7 +182,6 @@ breaklines=true}
 \clearpage
 
 \pagenumbering{roman}
-
 \listoffigures
 \addtocontents{lof}{\protect\addcontentsline{toc}{chapter}{\numberline{}List of Figures}}
 

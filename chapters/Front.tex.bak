@@ -79,7 +79,8 @@
 \clearpage
 
 %-----------------------CERTIFICATE-------------------------------------------------------------
-\addcontentsline{toc}{chapter}{\numberline{}Certificate}
+
+%\addcontentsline{toc}{chapter}{\numberline{}Certificate}
 \begin{center}
 \large \textbf{Dr. Babasaheb Ambedkar Marathwada University\\
 Aurangabad (M. S.) - 431 004}\\
@@ -111,7 +112,7 @@ Dr. Babasaheb Ambedkar Marathwada\\University, Aurangabad\\
 \clearpage
 %-----------------------ABSTRACT-------------------------------------------------------------
 \chapter*{ABSTRACT}
-\addcontentsline{toc}{chapter}{\numberline{}Abstract}
+%\addcontentsline{toc}{chapter}{\numberline{}Abstract}
 \input{chapters/Abstract}
 \clearpage
 
@@ -122,7 +123,7 @@ Aurangabad (M. S.) - 431 004}\\
 \vspace{0.5cm}
 \includegraphics[width=.3\textwidth]{universityLOGO}\\
 \vspace{0.5cm}
-\addcontentsline{toc}{chapter}{\numberline{}Declaration}
+%\addcontentsline{toc}{chapter}{\numberline{}Declaration}
 
 \textbf{\large DECLARATION}\\
 \end{center}
@@ -171,23 +172,3 @@ Research Scholar
 %\end{minipage}
 
 %\clearpage
-%-----------------------ACKNOWLEDGEMENT------------------------------------------------------
-
-\begin{center}
-\large \textbf{ACKNOWLEDGEMENT}
-\addcontentsline{toc}{chapter}{\numberline{}Acknowledgement}
-\end{center}
-
-\setlength{\parskip}{1em}
-\justify \normalsize I take this opportunity to thank my guide Dr. W. Z. Gandhare, Director, G.S.Moze College of Engineering, Pune for his valuable guidance and constant motivation during the research work. I wish to thank Internal Monitoring Committee Members Dr. A. S. Bhalchandra, Dr. M. G. Shaikh and Dr. A. G. Thosar, Head of Electrical Engineering Department, Government College of Engineering, Aurangabad for their valuable support, suggestions and extending all the facilities for completion of this research work. I am thankful to Dr. P.B. Murnal for permitting to carry out the research work. Many thanks to my colleagues at the institute for their help and support.
-
-I owe special thanks to the authority of Crompton Greaves, Nashik for permitting to conduct the experimentation and measurements. Also I greatly acknowledge the authorities of PGCIL and MSETCL for the technical support and permission to visit the substation and carry out the testing.
-
-Last but not least, I express my deepest love to my family with all my heart for patience and unfailing support through the research work.
-
-\setlength{\parskip}{0em}
-\vspace{2cm}
-\begin{flushright}
-\textbf{Anita Arun Bhole}
-\end{flushright}
-\clearpage
